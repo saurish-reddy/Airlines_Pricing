@@ -1,0 +1,3201 @@
+Airline,Season,TravelDate,BestDaysBeforeTravel,LowestPrice
+Air India,Summer,2015-05-15,60,560.63
+Air India,Summer,2015-05-16,55,545.95
+Air India,Summer,2015-05-17,40,553.37
+Air India,Summer,2015-05-18,52,533.05
+Air India,Summer,2015-05-19,56,573.2
+Air India,Summer,2015-05-20,57,550.9
+Air India,Summer,2015-05-21,57,541.76
+Air India,Summer,2015-05-22,40,558.09
+Air India,Summer,2015-05-23,58,550.91
+Air India,Summer,2015-05-24,60,524.45
+Air India,Summer,2015-05-25,59,545.91
+Air India,Summer,2015-05-26,60,535.3
+Air India,Summer,2015-05-27,41,544.5
+Air India,Summer,2015-05-28,56,555.88
+Air India,Summer,2015-05-29,58,559.93
+Air India,Summer,2015-05-30,50,568.48
+Air India,Summer,2015-05-31,57,542.09
+Air India,Summer,2015-06-01,56,564.04
+Air India,Summer,2015-06-02,60,578.33
+Air India,Summer,2015-06-03,53,571.92
+Air India,Summer,2015-06-04,58,553.74
+Air India,Summer,2015-06-05,55,539.25
+Air India,Summer,2015-06-06,56,565.58
+Air India,Summer,2015-06-07,55,586.4
+Air India,Summer,2015-06-08,49,553.47
+Air India,Summer,2015-06-09,57,582.26
+Air India,Summer,2015-06-10,52,541.42
+Air India,Summer,2015-06-11,48,545.92
+Air India,Summer,2015-06-12,48,544.18
+Air India,Summer,2015-06-13,60,549.3
+Air India,Summer,2015-06-14,48,593.04
+Air India,Summer,2015-06-15,37,571.43
+Air India,Summer,2016-05-15,60,543.0
+Air India,Summer,2016-05-16,60,527.13
+Air India,Summer,2016-05-17,27,544.2
+Air India,Summer,2016-05-18,56,549.7
+Air India,Summer,2016-05-19,53,577.13
+Air India,Summer,2016-05-20,29,559.77
+Air India,Summer,2016-05-21,59,555.29
+Air India,Summer,2016-05-22,59,558.8
+Air India,Summer,2016-05-23,40,555.28
+Air India,Summer,2016-05-24,49,550.69
+Air India,Summer,2016-05-25,47,574.93
+Air India,Summer,2016-05-26,51,558.33
+Air India,Summer,2016-05-27,59,556.46
+Air India,Summer,2016-05-28,56,536.72
+Air India,Summer,2016-05-29,53,568.99
+Air India,Summer,2016-05-30,39,561.73
+Air India,Summer,2016-05-31,58,566.35
+Air India,Summer,2016-06-01,47,569.48
+Air India,Summer,2016-06-02,60,549.09
+Air India,Summer,2016-06-03,36,555.64
+Air India,Summer,2016-06-04,55,548.86
+Air India,Summer,2016-06-05,50,499.02
+Air India,Summer,2016-06-06,55,521.31
+Air India,Summer,2016-06-07,43,583.05
+Air India,Summer,2016-06-08,51,514.31
+Air India,Summer,2016-06-09,58,558.64
+Air India,Summer,2016-06-10,48,502.86
+Air India,Summer,2016-06-11,51,540.79
+Air India,Summer,2016-06-12,43,571.57
+Air India,Summer,2016-06-13,60,570.71
+Air India,Summer,2016-06-14,57,576.7
+Air India,Summer,2016-06-15,56,559.83
+Air India,Summer,2017-05-15,58,593.89
+Air India,Summer,2017-05-16,56,553.69
+Air India,Summer,2017-05-17,55,556.49
+Air India,Summer,2017-05-18,38,585.39
+Air India,Summer,2017-05-19,59,554.04
+Air India,Summer,2017-05-20,55,585.53
+Air India,Summer,2017-05-21,36,545.38
+Air India,Summer,2017-05-22,33,585.43
+Air India,Summer,2017-05-23,47,525.15
+Air India,Summer,2017-05-24,60,549.36
+Air India,Summer,2017-05-25,55,539.66
+Air India,Summer,2017-05-26,26,563.42
+Air India,Summer,2017-05-27,59,472.1
+Air India,Summer,2017-05-28,58,545.81
+Air India,Summer,2017-05-29,46,562.22
+Air India,Summer,2017-05-30,49,565.16
+Air India,Summer,2017-05-31,52,577.27
+Air India,Summer,2017-06-01,43,582.58
+Air India,Summer,2017-06-02,58,578.52
+Air India,Summer,2017-06-03,50,528.21
+Air India,Summer,2017-06-04,60,533.64
+Air India,Summer,2017-06-05,58,533.92
+Air India,Summer,2017-06-06,53,489.78
+Air India,Summer,2017-06-07,56,535.29
+Air India,Summer,2017-06-08,57,575.65
+Air India,Summer,2017-06-09,47,526.31
+Air India,Summer,2017-06-10,55,538.71
+Air India,Summer,2017-06-11,53,558.55
+Air India,Summer,2017-06-12,60,541.1
+Air India,Summer,2017-06-13,60,522.53
+Air India,Summer,2017-06-14,37,551.98
+Air India,Summer,2017-06-15,50,550.87
+Air India,Summer,2018-05-15,60,548.56
+Air India,Summer,2018-05-16,59,547.42
+Air India,Summer,2018-05-17,60,557.44
+Air India,Summer,2018-05-18,60,547.91
+Air India,Summer,2018-05-19,58,554.77
+Air India,Summer,2018-05-20,46,548.88
+Air India,Summer,2018-05-21,55,545.99
+Air India,Summer,2018-05-22,56,561.59
+Air India,Summer,2018-05-23,60,581.02
+Air India,Summer,2018-05-24,59,568.65
+Air India,Summer,2018-05-25,56,556.26
+Air India,Summer,2018-05-26,55,566.11
+Air India,Summer,2018-05-27,58,505.7
+Air India,Summer,2018-05-28,47,559.81
+Air India,Summer,2018-05-29,56,551.04
+Air India,Summer,2018-05-30,56,515.75
+Air India,Summer,2018-05-31,55,536.82
+Air India,Summer,2018-06-01,59,567.62
+Air India,Summer,2018-06-02,59,586.87
+Air India,Summer,2018-06-03,49,559.76
+Air India,Summer,2018-06-04,57,578.3
+Air India,Summer,2018-06-05,25,529.7
+Air India,Summer,2018-06-06,60,546.96
+Air India,Summer,2018-06-07,45,524.23
+Air India,Summer,2018-06-08,56,573.5
+Air India,Summer,2018-06-09,55,580.72
+Air India,Summer,2018-06-10,60,564.34
+Air India,Summer,2018-06-11,60,510.65
+Air India,Summer,2018-06-12,55,516.62
+Air India,Summer,2018-06-13,58,513.2
+Air India,Summer,2018-06-14,59,553.24
+Air India,Summer,2018-06-15,50,558.19
+Air India,Summer,2019-05-15,54,575.84
+Air India,Summer,2019-05-16,57,527.2
+Air India,Summer,2019-05-17,49,561.7
+Air India,Summer,2019-05-18,57,558.16
+Air India,Summer,2019-05-19,60,571.01
+Air India,Summer,2019-05-20,46,557.34
+Air India,Summer,2019-05-21,51,536.44
+Air India,Summer,2019-05-22,59,543.01
+Air India,Summer,2019-05-23,55,550.68
+Air India,Summer,2019-05-24,57,558.33
+Air India,Summer,2019-05-25,57,524.98
+Air India,Summer,2019-05-26,45,562.95
+Air India,Summer,2019-05-27,56,568.06
+Air India,Summer,2019-05-28,47,590.78
+Air India,Summer,2019-05-29,58,539.86
+Air India,Summer,2019-05-30,58,527.54
+Air India,Summer,2019-05-31,59,548.22
+Air India,Summer,2019-06-01,27,571.35
+Air India,Summer,2019-06-02,32,543.52
+Air India,Summer,2019-06-03,59,553.16
+Air India,Summer,2019-06-04,55,518.31
+Air India,Summer,2019-06-05,59,524.04
+Air India,Summer,2019-06-06,49,543.92
+Air India,Summer,2019-06-07,59,539.28
+Air India,Summer,2019-06-08,48,568.19
+Air India,Summer,2019-06-09,43,566.92
+Air India,Summer,2019-06-10,35,578.07
+Air India,Summer,2019-06-11,52,540.36
+Air India,Summer,2019-06-12,59,539.86
+Air India,Summer,2019-06-13,57,520.19
+Air India,Summer,2019-06-14,53,568.49
+Air India,Summer,2019-06-15,56,549.04
+Air India,Summer,2020-05-15,56,520.48
+Air India,Summer,2020-05-16,60,538.0
+Air India,Summer,2020-05-17,45,521.63
+Air India,Summer,2020-05-18,57,538.41
+Air India,Summer,2020-05-19,49,571.13
+Air India,Summer,2020-05-20,56,539.19
+Air India,Summer,2020-05-21,54,519.66
+Air India,Summer,2020-05-22,59,541.08
+Air India,Summer,2020-05-23,48,559.9
+Air India,Summer,2020-05-24,46,566.94
+Air India,Summer,2020-05-25,60,546.76
+Air India,Summer,2020-05-26,58,543.73
+Air India,Summer,2020-05-27,60,527.15
+Air India,Summer,2020-05-28,47,553.48
+Air India,Summer,2020-05-29,47,545.32
+Air India,Summer,2020-05-30,56,499.62
+Air India,Summer,2020-05-31,59,532.27
+Air India,Summer,2020-06-01,59,565.49
+Air India,Summer,2020-06-02,44,535.99
+Air India,Summer,2020-06-03,54,520.18
+Air India,Summer,2020-06-04,58,530.16
+Air India,Summer,2020-06-05,40,555.09
+Air India,Summer,2020-06-06,55,568.49
+Air India,Summer,2020-06-07,59,562.15
+Air India,Summer,2020-06-08,60,547.16
+Air India,Summer,2020-06-09,56,573.28
+Air India,Summer,2020-06-10,41,575.89
+Air India,Summer,2020-06-11,48,554.36
+Air India,Summer,2020-06-12,55,513.23
+Air India,Summer,2020-06-13,53,583.07
+Air India,Summer,2020-06-14,56,564.25
+Air India,Summer,2020-06-15,60,536.74
+Air India,Summer,2021-05-15,57,571.69
+Air India,Summer,2021-05-16,58,548.41
+Air India,Summer,2021-05-17,55,541.57
+Air India,Summer,2021-05-18,51,524.96
+Air India,Summer,2021-05-19,55,557.75
+Air India,Summer,2021-05-20,47,530.54
+Air India,Summer,2021-05-21,39,554.79
+Air India,Summer,2021-05-22,49,532.61
+Air India,Summer,2021-05-23,48,535.77
+Air India,Summer,2021-05-24,41,526.75
+Air India,Summer,2021-05-25,60,553.11
+Air India,Summer,2021-05-26,51,576.47
+Air India,Summer,2021-05-27,56,549.15
+Air India,Summer,2021-05-28,15,547.98
+Air India,Summer,2021-05-29,56,565.34
+Air India,Summer,2021-05-30,55,495.19
+Air India,Summer,2021-05-31,58,518.73
+Air India,Summer,2021-06-01,57,514.09
+Air India,Summer,2021-06-02,59,563.51
+Air India,Summer,2021-06-03,55,545.16
+Air India,Summer,2021-06-04,59,545.63
+Air India,Summer,2021-06-05,60,561.81
+Air India,Summer,2021-06-06,56,551.85
+Air India,Summer,2021-06-07,52,529.57
+Air India,Summer,2021-06-08,60,539.05
+Air India,Summer,2021-06-09,53,553.89
+Air India,Summer,2021-06-10,47,535.8
+Air India,Summer,2021-06-11,51,555.98
+Air India,Summer,2021-06-12,48,539.13
+Air India,Summer,2021-06-13,42,553.41
+Air India,Summer,2021-06-14,47,535.83
+Air India,Summer,2021-06-15,57,569.22
+Air India,Summer,2022-05-15,59,524.43
+Air India,Summer,2022-05-16,55,568.0
+Air India,Summer,2022-05-17,36,535.38
+Air India,Summer,2022-05-18,59,546.52
+Air India,Summer,2022-05-19,56,504.33
+Air India,Summer,2022-05-20,50,526.43
+Air India,Summer,2022-05-21,49,560.34
+Air India,Summer,2022-05-22,57,486.92
+Air India,Summer,2022-05-23,56,581.88
+Air India,Summer,2022-05-24,53,535.78
+Air India,Summer,2022-05-25,56,548.82
+Air India,Summer,2022-05-26,59,579.02
+Air India,Summer,2022-05-27,52,508.08
+Air India,Summer,2022-05-28,53,578.06
+Air India,Summer,2022-05-29,58,564.71
+Air India,Summer,2022-05-30,56,581.1
+Air India,Summer,2022-05-31,21,577.59
+Air India,Summer,2022-06-01,59,537.94
+Air India,Summer,2022-06-02,50,558.84
+Air India,Summer,2022-06-03,49,563.83
+Air India,Summer,2022-06-04,49,517.88
+Air India,Summer,2022-06-05,52,556.15
+Air India,Summer,2022-06-06,54,564.41
+Air India,Summer,2022-06-07,60,552.01
+Air India,Summer,2022-06-08,58,542.05
+Air India,Summer,2022-06-09,56,554.43
+Air India,Summer,2022-06-10,52,576.63
+Air India,Summer,2022-06-11,53,523.25
+Air India,Summer,2022-06-12,57,544.42
+Air India,Summer,2022-06-13,60,532.35
+Air India,Summer,2022-06-14,55,554.95
+Air India,Summer,2022-06-15,52,541.55
+Air India,Summer,2023-05-15,58,560.92
+Air India,Summer,2023-05-16,59,507.58
+Air India,Summer,2023-05-17,58,579.32
+Air India,Summer,2023-05-18,58,549.13
+Air India,Summer,2023-05-19,47,543.61
+Air India,Summer,2023-05-20,59,554.16
+Air India,Summer,2023-05-21,52,571.6
+Air India,Summer,2023-05-22,59,584.02
+Air India,Summer,2023-05-23,48,560.31
+Air India,Summer,2023-05-24,59,552.61
+Air India,Summer,2023-05-25,58,542.3
+Air India,Summer,2023-05-26,59,528.0
+Air India,Summer,2023-05-27,39,564.45
+Air India,Summer,2023-05-28,51,548.19
+Air India,Summer,2023-05-29,51,560.47
+Air India,Summer,2023-05-30,58,548.91
+Air India,Summer,2023-05-31,57,551.52
+Air India,Summer,2023-06-01,51,551.87
+Air India,Summer,2023-06-02,53,542.99
+Air India,Summer,2023-06-03,60,520.92
+Air India,Summer,2023-06-04,57,519.32
+Air India,Summer,2023-06-05,55,581.88
+Air India,Summer,2023-06-06,60,597.65
+Air India,Summer,2023-06-07,58,556.03
+Air India,Summer,2023-06-08,58,573.92
+Air India,Summer,2023-06-09,56,539.85
+Air India,Summer,2023-06-10,58,504.74
+Air India,Summer,2023-06-11,54,532.51
+Air India,Summer,2023-06-12,60,519.13
+Air India,Summer,2023-06-13,51,546.05
+Air India,Summer,2023-06-14,59,543.2
+Air India,Summer,2023-06-15,54,542.43
+Air India,Summer,2024-05-15,57,540.94
+Air India,Summer,2024-05-16,59,524.89
+Air India,Summer,2024-05-17,59,574.69
+Air India,Summer,2024-05-18,45,570.43
+Air India,Summer,2024-05-19,59,565.73
+Air India,Summer,2024-05-20,53,541.67
+Air India,Summer,2024-05-21,55,489.17
+Air India,Summer,2024-05-22,52,567.75
+Air India,Summer,2024-05-23,47,551.02
+Air India,Summer,2024-05-24,56,580.43
+Air India,Summer,2024-05-25,41,542.58
+Air India,Summer,2024-05-26,36,551.7
+Air India,Summer,2024-05-27,58,583.44
+Air India,Summer,2024-05-28,56,529.99
+Air India,Summer,2024-05-29,53,500.36
+Air India,Summer,2024-05-30,53,527.78
+Air India,Summer,2024-05-31,40,513.28
+Air India,Summer,2024-06-01,45,551.31
+Air India,Summer,2024-06-02,55,560.15
+Air India,Summer,2024-06-03,48,546.37
+Air India,Summer,2024-06-04,60,574.24
+Air India,Summer,2024-06-05,44,538.59
+Air India,Summer,2024-06-06,32,563.26
+Air India,Summer,2024-06-07,48,521.92
+Air India,Summer,2024-06-08,60,544.43
+Air India,Summer,2024-06-09,57,543.33
+Air India,Summer,2024-06-10,60,542.79
+Air India,Summer,2024-06-11,59,539.62
+Air India,Summer,2024-06-12,60,546.25
+Air India,Summer,2024-06-13,59,558.82
+Air India,Summer,2024-06-14,53,546.5
+Air India,Summer,2024-06-15,54,571.87
+Air India,Fall,2015-08-23,41,566.9
+Air India,Fall,2015-08-24,50,553.05
+Air India,Fall,2015-08-25,53,534.93
+Air India,Fall,2015-08-26,50,542.12
+Air India,Fall,2015-08-27,58,555.67
+Air India,Fall,2015-08-28,60,583.27
+Air India,Fall,2015-08-29,45,551.97
+Air India,Fall,2015-08-30,57,531.93
+Air India,Fall,2015-08-31,49,534.66
+Air India,Fall,2015-09-01,55,546.32
+Air India,Fall,2015-09-02,60,535.13
+Air India,Fall,2015-09-03,48,550.36
+Air India,Fall,2015-09-04,43,502.13
+Air India,Fall,2015-09-05,56,566.69
+Air India,Fall,2015-09-06,44,556.35
+Air India,Fall,2015-09-07,46,543.8
+Air India,Fall,2015-09-08,50,532.61
+Air India,Fall,2015-09-09,56,559.76
+Air India,Fall,2015-09-10,51,579.0
+Air India,Fall,2015-09-11,60,532.73
+Air India,Fall,2015-09-12,40,551.3
+Air India,Fall,2015-09-13,47,574.63
+Air India,Fall,2015-09-14,50,529.28
+Air India,Fall,2015-09-15,58,534.21
+Air India,Fall,2015-09-16,58,593.84
+Air India,Fall,2015-09-17,56,512.36
+Air India,Fall,2015-09-18,48,530.01
+Air India,Fall,2015-09-19,58,524.14
+Air India,Fall,2015-09-20,58,521.59
+Air India,Fall,2015-09-21,58,555.93
+Air India,Fall,2015-09-22,53,560.62
+Air India,Fall,2015-09-23,51,571.48
+Air India,Fall,2016-08-23,40,559.86
+Air India,Fall,2016-08-24,56,568.85
+Air India,Fall,2016-08-25,26,554.85
+Air India,Fall,2016-08-26,46,564.36
+Air India,Fall,2016-08-27,59,556.22
+Air India,Fall,2016-08-28,47,580.06
+Air India,Fall,2016-08-29,51,548.01
+Air India,Fall,2016-08-30,58,524.36
+Air India,Fall,2016-08-31,58,538.63
+Air India,Fall,2016-09-01,52,536.01
+Air India,Fall,2016-09-02,38,533.24
+Air India,Fall,2016-09-03,60,512.11
+Air India,Fall,2016-09-04,47,581.5
+Air India,Fall,2016-09-05,50,562.73
+Air India,Fall,2016-09-06,48,554.74
+Air India,Fall,2016-09-07,59,547.06
+Air India,Fall,2016-09-08,59,547.67
+Air India,Fall,2016-09-09,60,559.08
+Air India,Fall,2016-09-10,57,528.7
+Air India,Fall,2016-09-11,60,547.23
+Air India,Fall,2016-09-12,58,570.42
+Air India,Fall,2016-09-13,60,523.05
+Air India,Fall,2016-09-14,49,555.72
+Air India,Fall,2016-09-15,54,528.2
+Air India,Fall,2016-09-16,60,556.27
+Air India,Fall,2016-09-17,54,572.19
+Air India,Fall,2016-09-18,57,541.0
+Air India,Fall,2016-09-19,44,498.68
+Air India,Fall,2016-09-20,43,554.73
+Air India,Fall,2016-09-21,56,536.7
+Air India,Fall,2016-09-22,59,551.57
+Air India,Fall,2016-09-23,56,543.97
+Air India,Fall,2017-08-23,44,575.7
+Air India,Fall,2017-08-24,48,540.26
+Air India,Fall,2017-08-25,56,538.95
+Air India,Fall,2017-08-26,53,555.36
+Air India,Fall,2017-08-27,59,524.46
+Air India,Fall,2017-08-28,58,533.61
+Air India,Fall,2017-08-29,49,535.48
+Air India,Fall,2017-08-30,57,552.35
+Air India,Fall,2017-08-31,40,523.63
+Air India,Fall,2017-09-01,43,558.04
+Air India,Fall,2017-09-02,48,541.5
+Air India,Fall,2017-09-03,53,544.22
+Air India,Fall,2017-09-04,56,579.43
+Air India,Fall,2017-09-05,49,552.6
+Air India,Fall,2017-09-06,59,553.72
+Air India,Fall,2017-09-07,60,549.31
+Air India,Fall,2017-09-08,53,565.25
+Air India,Fall,2017-09-09,60,571.13
+Air India,Fall,2017-09-10,59,571.5
+Air India,Fall,2017-09-11,60,536.11
+Air India,Fall,2017-09-12,52,535.85
+Air India,Fall,2017-09-13,60,537.02
+Air India,Fall,2017-09-14,57,536.85
+Air India,Fall,2017-09-15,58,563.03
+Air India,Fall,2017-09-16,60,508.94
+Air India,Fall,2017-09-17,53,575.49
+Air India,Fall,2017-09-18,47,527.6
+Air India,Fall,2017-09-19,52,542.32
+Air India,Fall,2017-09-20,51,552.14
+Air India,Fall,2017-09-21,56,532.12
+Air India,Fall,2017-09-22,52,559.63
+Air India,Fall,2017-09-23,50,590.96
+Air India,Fall,2018-08-23,59,548.49
+Air India,Fall,2018-08-24,53,540.94
+Air India,Fall,2018-08-25,57,534.54
+Air India,Fall,2018-08-26,56,562.27
+Air India,Fall,2018-08-27,50,547.05
+Air India,Fall,2018-08-28,55,563.26
+Air India,Fall,2018-08-29,56,566.52
+Air India,Fall,2018-08-30,57,491.14
+Air India,Fall,2018-08-31,46,567.02
+Air India,Fall,2018-09-01,57,568.66
+Air India,Fall,2018-09-02,57,553.63
+Air India,Fall,2018-09-03,50,557.64
+Air India,Fall,2018-09-04,27,577.09
+Air India,Fall,2018-09-05,56,546.58
+Air India,Fall,2018-09-06,58,516.71
+Air India,Fall,2018-09-07,43,569.94
+Air India,Fall,2018-09-08,57,529.54
+Air India,Fall,2018-09-09,51,557.28
+Air India,Fall,2018-09-10,42,540.6
+Air India,Fall,2018-09-11,49,571.64
+Air India,Fall,2018-09-12,56,546.0
+Air India,Fall,2018-09-13,54,525.49
+Air India,Fall,2018-09-14,53,578.61
+Air India,Fall,2018-09-15,59,567.77
+Air India,Fall,2018-09-16,60,521.82
+Air India,Fall,2018-09-17,38,549.33
+Air India,Fall,2018-09-18,46,567.19
+Air India,Fall,2018-09-19,56,534.9
+Air India,Fall,2018-09-20,58,546.82
+Air India,Fall,2018-09-21,60,517.39
+Air India,Fall,2018-09-22,48,503.31
+Air India,Fall,2018-09-23,57,549.31
+Air India,Fall,2019-08-23,43,548.8
+Air India,Fall,2019-08-24,54,566.87
+Air India,Fall,2019-08-25,58,536.42
+Air India,Fall,2019-08-26,60,542.24
+Air India,Fall,2019-08-27,41,543.84
+Air India,Fall,2019-08-28,59,527.05
+Air India,Fall,2019-08-29,8,576.02
+Air India,Fall,2019-08-30,53,571.68
+Air India,Fall,2019-08-31,60,545.9
+Air India,Fall,2019-09-01,56,566.68
+Air India,Fall,2019-09-02,48,533.4
+Air India,Fall,2019-09-03,59,564.26
+Air India,Fall,2019-09-04,59,591.14
+Air India,Fall,2019-09-05,44,560.38
+Air India,Fall,2019-09-06,59,583.69
+Air India,Fall,2019-09-07,60,562.49
+Air India,Fall,2019-09-08,28,577.15
+Air India,Fall,2019-09-09,45,572.16
+Air India,Fall,2019-09-10,57,556.3
+Air India,Fall,2019-09-11,54,516.77
+Air India,Fall,2019-09-12,60,518.65
+Air India,Fall,2019-09-13,41,578.17
+Air India,Fall,2019-09-14,59,574.76
+Air India,Fall,2019-09-15,49,544.64
+Air India,Fall,2019-09-16,50,550.92
+Air India,Fall,2019-09-17,49,539.68
+Air India,Fall,2019-09-18,55,554.39
+Air India,Fall,2019-09-19,24,536.85
+Air India,Fall,2019-09-20,55,571.67
+Air India,Fall,2019-09-21,60,541.43
+Air India,Fall,2019-09-22,53,546.36
+Air India,Fall,2019-09-23,59,538.6
+Air India,Fall,2020-08-23,55,527.34
+Air India,Fall,2020-08-24,57,553.67
+Air India,Fall,2020-08-25,60,522.89
+Air India,Fall,2020-08-26,44,552.58
+Air India,Fall,2020-08-27,60,527.55
+Air India,Fall,2020-08-28,46,558.1
+Air India,Fall,2020-08-29,56,545.28
+Air India,Fall,2020-08-30,48,560.84
+Air India,Fall,2020-08-31,55,534.88
+Air India,Fall,2020-09-01,51,550.41
+Air India,Fall,2020-09-02,60,565.52
+Air India,Fall,2020-09-03,54,528.24
+Air India,Fall,2020-09-04,54,542.13
+Air India,Fall,2020-09-05,60,572.09
+Air India,Fall,2020-09-06,54,532.84
+Air India,Fall,2020-09-07,48,530.51
+Air India,Fall,2020-09-08,55,529.67
+Air India,Fall,2020-09-09,58,530.28
+Air India,Fall,2020-09-10,52,558.57
+Air India,Fall,2020-09-11,56,540.47
+Air India,Fall,2020-09-12,56,532.32
+Air India,Fall,2020-09-13,58,545.38
+Air India,Fall,2020-09-14,60,526.77
+Air India,Fall,2020-09-15,23,574.21
+Air India,Fall,2020-09-16,45,558.08
+Air India,Fall,2020-09-17,52,555.32
+Air India,Fall,2020-09-18,42,532.9
+Air India,Fall,2020-09-19,56,579.85
+Air India,Fall,2020-09-20,57,530.62
+Air India,Fall,2020-09-21,49,575.66
+Air India,Fall,2020-09-22,54,543.01
+Air India,Fall,2020-09-23,59,560.29
+Air India,Fall,2021-08-23,53,559.16
+Air India,Fall,2021-08-24,50,556.96
+Air India,Fall,2021-08-25,50,544.71
+Air India,Fall,2021-08-26,52,553.46
+Air India,Fall,2021-08-27,58,549.72
+Air India,Fall,2021-08-28,45,542.14
+Air India,Fall,2021-08-29,52,545.0
+Air India,Fall,2021-08-30,56,567.59
+Air India,Fall,2021-08-31,58,549.54
+Air India,Fall,2021-09-01,54,560.66
+Air India,Fall,2021-09-02,57,572.11
+Air India,Fall,2021-09-03,50,560.67
+Air India,Fall,2021-09-04,56,582.24
+Air India,Fall,2021-09-05,53,585.18
+Air India,Fall,2021-09-06,58,564.52
+Air India,Fall,2021-09-07,55,571.44
+Air India,Fall,2021-09-08,50,573.18
+Air India,Fall,2021-09-09,48,503.65
+Air India,Fall,2021-09-10,55,527.93
+Air India,Fall,2021-09-11,53,570.37
+Air India,Fall,2021-09-12,57,554.55
+Air India,Fall,2021-09-13,57,567.45
+Air India,Fall,2021-09-14,59,522.79
+Air India,Fall,2021-09-15,45,540.76
+Air India,Fall,2021-09-16,58,543.98
+Air India,Fall,2021-09-17,58,554.31
+Air India,Fall,2021-09-18,58,570.93
+Air India,Fall,2021-09-19,52,538.19
+Air India,Fall,2021-09-20,56,519.28
+Air India,Fall,2021-09-21,47,561.51
+Air India,Fall,2021-09-22,52,588.27
+Air India,Fall,2021-09-23,47,552.93
+Air India,Fall,2022-08-23,58,523.68
+Air India,Fall,2022-08-24,58,571.26
+Air India,Fall,2022-08-25,59,553.52
+Air India,Fall,2022-08-26,44,540.3
+Air India,Fall,2022-08-27,55,579.88
+Air India,Fall,2022-08-28,47,576.02
+Air India,Fall,2022-08-29,56,528.56
+Air India,Fall,2022-08-30,59,573.78
+Air India,Fall,2022-08-31,36,568.31
+Air India,Fall,2022-09-01,34,531.33
+Air India,Fall,2022-09-02,60,543.29
+Air India,Fall,2022-09-03,54,566.16
+Air India,Fall,2022-09-04,54,547.31
+Air India,Fall,2022-09-05,56,576.44
+Air India,Fall,2022-09-06,58,547.45
+Air India,Fall,2022-09-07,55,547.05
+Air India,Fall,2022-09-08,59,520.6
+Air India,Fall,2022-09-09,54,560.76
+Air India,Fall,2022-09-10,50,566.01
+Air India,Fall,2022-09-11,60,577.04
+Air India,Fall,2022-09-12,49,573.52
+Air India,Fall,2022-09-13,58,563.37
+Air India,Fall,2022-09-14,56,542.05
+Air India,Fall,2022-09-15,57,561.05
+Air India,Fall,2022-09-16,57,541.6
+Air India,Fall,2022-09-17,46,551.38
+Air India,Fall,2022-09-18,58,517.27
+Air India,Fall,2022-09-19,56,546.73
+Air India,Fall,2022-09-20,59,533.91
+Air India,Fall,2022-09-21,56,584.1
+Air India,Fall,2022-09-22,55,585.97
+Air India,Fall,2022-09-23,59,544.59
+Air India,Fall,2023-08-23,53,571.91
+Air India,Fall,2023-08-24,34,553.47
+Air India,Fall,2023-08-25,56,556.49
+Air India,Fall,2023-08-26,47,578.86
+Air India,Fall,2023-08-27,51,550.91
+Air India,Fall,2023-08-28,48,564.39
+Air India,Fall,2023-08-29,54,561.05
+Air India,Fall,2023-08-30,54,582.56
+Air India,Fall,2023-08-31,57,547.04
+Air India,Fall,2023-09-01,49,571.7
+Air India,Fall,2023-09-02,60,554.69
+Air India,Fall,2023-09-03,54,574.67
+Air India,Fall,2023-09-04,59,564.17
+Air India,Fall,2023-09-05,56,532.81
+Air India,Fall,2023-09-06,60,545.54
+Air India,Fall,2023-09-07,54,562.93
+Air India,Fall,2023-09-08,55,524.09
+Air India,Fall,2023-09-09,60,568.37
+Air India,Fall,2023-09-10,45,514.4
+Air India,Fall,2023-09-11,50,510.8
+Air India,Fall,2023-09-12,59,556.03
+Air India,Fall,2023-09-13,60,513.71
+Air India,Fall,2023-09-14,60,559.5
+Air India,Fall,2023-09-15,38,541.91
+Air India,Fall,2023-09-16,37,551.73
+Air India,Fall,2023-09-17,52,536.47
+Air India,Fall,2023-09-18,56,588.47
+Air India,Fall,2023-09-19,51,565.31
+Air India,Fall,2023-09-20,59,579.93
+Air India,Fall,2023-09-21,58,546.53
+Air India,Fall,2023-09-22,58,505.5
+Air India,Fall,2023-09-23,46,551.67
+Air India,Fall,2024-08-23,54,575.21
+Air India,Fall,2024-08-24,52,537.38
+Air India,Fall,2024-08-25,60,557.55
+Air India,Fall,2024-08-26,56,558.53
+Air India,Fall,2024-08-27,52,566.45
+Air India,Fall,2024-08-28,53,537.93
+Air India,Fall,2024-08-29,56,534.82
+Air India,Fall,2024-08-30,58,549.13
+Air India,Fall,2024-08-31,58,544.53
+Air India,Fall,2024-09-01,52,523.25
+Air India,Fall,2024-09-02,58,540.79
+Air India,Fall,2024-09-03,58,557.02
+Air India,Fall,2024-09-04,60,515.27
+Air India,Fall,2024-09-05,52,532.33
+Air India,Fall,2024-09-06,51,548.52
+Air India,Fall,2024-09-07,58,559.35
+Air India,Fall,2024-09-08,60,567.52
+Air India,Fall,2024-09-09,59,545.2
+Air India,Fall,2024-09-10,59,553.94
+Air India,Fall,2024-09-11,50,572.19
+Air India,Fall,2024-09-12,43,538.21
+Air India,Fall,2024-09-13,53,546.79
+Air India,Fall,2024-09-14,58,560.97
+Air India,Fall,2024-09-15,58,573.62
+Air India,Fall,2024-09-16,58,552.74
+Air India,Fall,2024-09-17,58,563.49
+Air India,Fall,2024-09-18,60,534.53
+Air India,Fall,2024-09-19,30,557.58
+Air India,Fall,2024-09-20,50,569.77
+Air India,Fall,2024-09-21,56,574.67
+Air India,Fall,2024-09-22,55,572.17
+Air India,Fall,2024-09-23,31,548.67
+United,Summer,2015-05-15,55,569.32
+United,Summer,2015-05-16,53,537.35
+United,Summer,2015-05-17,49,532.92
+United,Summer,2015-05-18,54,577.61
+United,Summer,2015-05-19,57,557.69
+United,Summer,2015-05-20,26,539.28
+United,Summer,2015-05-21,53,556.37
+United,Summer,2015-05-22,58,521.59
+United,Summer,2015-05-23,46,565.42
+United,Summer,2015-05-24,60,555.96
+United,Summer,2015-05-25,53,544.43
+United,Summer,2015-05-26,59,558.81
+United,Summer,2015-05-27,60,524.39
+United,Summer,2015-05-28,60,561.74
+United,Summer,2015-05-29,53,563.56
+United,Summer,2015-05-30,48,571.26
+United,Summer,2015-05-31,44,506.22
+United,Summer,2015-06-01,60,562.26
+United,Summer,2015-06-02,51,545.38
+United,Summer,2015-06-03,52,576.83
+United,Summer,2015-06-04,48,516.26
+United,Summer,2015-06-05,48,536.13
+United,Summer,2015-06-06,51,571.73
+United,Summer,2015-06-07,58,533.17
+United,Summer,2015-06-08,58,579.23
+United,Summer,2015-06-09,59,550.91
+United,Summer,2015-06-10,45,570.49
+United,Summer,2015-06-11,50,550.29
+United,Summer,2015-06-12,49,548.08
+United,Summer,2015-06-13,54,563.48
+United,Summer,2015-06-14,44,569.36
+United,Summer,2015-06-15,44,541.05
+United,Summer,2016-05-15,58,524.15
+United,Summer,2016-05-16,50,564.25
+United,Summer,2016-05-17,57,511.39
+United,Summer,2016-05-18,58,510.39
+United,Summer,2016-05-19,56,536.27
+United,Summer,2016-05-20,60,549.23
+United,Summer,2016-05-21,55,568.92
+United,Summer,2016-05-22,52,547.65
+United,Summer,2016-05-23,45,549.31
+United,Summer,2016-05-24,54,515.08
+United,Summer,2016-05-25,52,513.35
+United,Summer,2016-05-26,49,506.49
+United,Summer,2016-05-27,52,589.52
+United,Summer,2016-05-28,47,526.06
+United,Summer,2016-05-29,57,539.38
+United,Summer,2016-05-30,48,549.87
+United,Summer,2016-05-31,60,554.35
+United,Summer,2016-06-01,54,527.44
+United,Summer,2016-06-02,55,488.58
+United,Summer,2016-06-03,29,572.06
+United,Summer,2016-06-04,60,557.13
+United,Summer,2016-06-05,51,553.31
+United,Summer,2016-06-06,45,545.31
+United,Summer,2016-06-07,52,567.5
+United,Summer,2016-06-08,47,556.04
+United,Summer,2016-06-09,56,572.87
+United,Summer,2016-06-10,46,555.73
+United,Summer,2016-06-11,57,541.86
+United,Summer,2016-06-12,57,571.2
+United,Summer,2016-06-13,34,549.71
+United,Summer,2016-06-14,58,554.91
+United,Summer,2016-06-15,60,527.54
+United,Summer,2017-05-15,57,584.72
+United,Summer,2017-05-16,35,545.35
+United,Summer,2017-05-17,51,575.99
+United,Summer,2017-05-18,52,540.4
+United,Summer,2017-05-19,60,554.63
+United,Summer,2017-05-20,56,535.27
+United,Summer,2017-05-21,44,584.89
+United,Summer,2017-05-22,59,556.72
+United,Summer,2017-05-23,50,567.97
+United,Summer,2017-05-24,44,537.39
+United,Summer,2017-05-25,57,547.8
+United,Summer,2017-05-26,48,543.28
+United,Summer,2017-05-27,43,588.38
+United,Summer,2017-05-28,58,522.9
+United,Summer,2017-05-29,46,580.53
+United,Summer,2017-05-30,58,562.83
+United,Summer,2017-05-31,59,563.96
+United,Summer,2017-06-01,55,549.12
+United,Summer,2017-06-02,56,530.94
+United,Summer,2017-06-03,53,541.5
+United,Summer,2017-06-04,60,569.69
+United,Summer,2017-06-05,59,530.09
+United,Summer,2017-06-06,43,530.18
+United,Summer,2017-06-07,60,556.01
+United,Summer,2017-06-08,60,550.47
+United,Summer,2017-06-09,48,554.01
+United,Summer,2017-06-10,47,533.29
+United,Summer,2017-06-11,53,541.46
+United,Summer,2017-06-12,60,547.4
+United,Summer,2017-06-13,58,507.14
+United,Summer,2017-06-14,60,517.51
+United,Summer,2017-06-15,56,562.95
+United,Summer,2018-05-15,47,562.35
+United,Summer,2018-05-16,59,529.29
+United,Summer,2018-05-17,47,572.2
+United,Summer,2018-05-18,59,566.1
+United,Summer,2018-05-19,48,570.06
+United,Summer,2018-05-20,51,534.55
+United,Summer,2018-05-21,54,538.28
+United,Summer,2018-05-22,58,581.33
+United,Summer,2018-05-23,60,549.18
+United,Summer,2018-05-24,59,559.6
+United,Summer,2018-05-25,51,544.56
+United,Summer,2018-05-26,60,477.29
+United,Summer,2018-05-27,36,537.1
+United,Summer,2018-05-28,59,498.36
+United,Summer,2018-05-29,59,576.21
+United,Summer,2018-05-30,53,518.61
+United,Summer,2018-05-31,52,558.34
+United,Summer,2018-06-01,55,533.94
+United,Summer,2018-06-02,59,554.7
+United,Summer,2018-06-03,60,588.86
+United,Summer,2018-06-04,57,559.33
+United,Summer,2018-06-05,54,568.78
+United,Summer,2018-06-06,44,580.72
+United,Summer,2018-06-07,58,547.42
+United,Summer,2018-06-08,54,549.22
+United,Summer,2018-06-09,60,556.17
+United,Summer,2018-06-10,58,569.86
+United,Summer,2018-06-11,60,580.67
+United,Summer,2018-06-12,55,569.2
+United,Summer,2018-06-13,53,575.32
+United,Summer,2018-06-14,59,501.36
+United,Summer,2018-06-15,59,545.17
+United,Summer,2019-05-15,60,576.26
+United,Summer,2019-05-16,43,546.86
+United,Summer,2019-05-17,28,540.2
+United,Summer,2019-05-18,47,556.82
+United,Summer,2019-05-19,57,534.48
+United,Summer,2019-05-20,46,542.6
+United,Summer,2019-05-21,42,587.42
+United,Summer,2019-05-22,59,535.4
+United,Summer,2019-05-23,54,558.8
+United,Summer,2019-05-24,50,569.72
+United,Summer,2019-05-25,52,564.72
+United,Summer,2019-05-26,55,577.18
+United,Summer,2019-05-27,59,538.56
+United,Summer,2019-05-28,49,560.71
+United,Summer,2019-05-29,59,546.91
+United,Summer,2019-05-30,49,526.86
+United,Summer,2019-05-31,52,547.91
+United,Summer,2019-06-01,58,544.83
+United,Summer,2019-06-02,59,534.92
+United,Summer,2019-06-03,51,534.68
+United,Summer,2019-06-04,55,524.45
+United,Summer,2019-06-05,50,586.6
+United,Summer,2019-06-06,58,564.64
+United,Summer,2019-06-07,51,536.22
+United,Summer,2019-06-08,57,537.04
+United,Summer,2019-06-09,58,542.83
+United,Summer,2019-06-10,57,556.26
+United,Summer,2019-06-11,50,529.61
+United,Summer,2019-06-12,59,558.1
+United,Summer,2019-06-13,58,558.27
+United,Summer,2019-06-14,58,562.76
+United,Summer,2019-06-15,56,563.1
+United,Summer,2020-05-15,41,584.2
+United,Summer,2020-05-16,50,551.84
+United,Summer,2020-05-17,57,505.18
+United,Summer,2020-05-18,23,568.38
+United,Summer,2020-05-19,58,537.18
+United,Summer,2020-05-20,60,557.44
+United,Summer,2020-05-21,52,550.91
+United,Summer,2020-05-22,55,555.88
+United,Summer,2020-05-23,60,540.33
+United,Summer,2020-05-24,59,581.29
+United,Summer,2020-05-25,9,533.14
+United,Summer,2020-05-26,55,533.09
+United,Summer,2020-05-27,39,564.45
+United,Summer,2020-05-28,60,548.22
+United,Summer,2020-05-29,56,532.93
+United,Summer,2020-05-30,55,562.87
+United,Summer,2020-05-31,60,575.74
+United,Summer,2020-06-01,55,513.96
+United,Summer,2020-06-02,57,550.53
+United,Summer,2020-06-03,56,522.6
+United,Summer,2020-06-04,57,509.36
+United,Summer,2020-06-05,56,552.26
+United,Summer,2020-06-06,53,562.31
+United,Summer,2020-06-07,55,523.52
+United,Summer,2020-06-08,58,548.71
+United,Summer,2020-06-09,54,490.28
+United,Summer,2020-06-10,43,556.13
+United,Summer,2020-06-11,49,550.81
+United,Summer,2020-06-12,37,553.35
+United,Summer,2020-06-13,50,567.98
+United,Summer,2020-06-14,55,525.62
+United,Summer,2020-06-15,57,557.68
+United,Summer,2021-05-15,52,557.17
+United,Summer,2021-05-16,52,558.32
+United,Summer,2021-05-17,60,561.78
+United,Summer,2021-05-18,54,561.85
+United,Summer,2021-05-19,59,553.44
+United,Summer,2021-05-20,56,519.9
+United,Summer,2021-05-21,54,540.37
+United,Summer,2021-05-22,56,543.83
+United,Summer,2021-05-23,57,557.6
+United,Summer,2021-05-24,60,553.0
+United,Summer,2021-05-25,60,541.23
+United,Summer,2021-05-26,57,530.72
+United,Summer,2021-05-27,59,544.43
+United,Summer,2021-05-28,58,542.41
+United,Summer,2021-05-29,58,558.74
+United,Summer,2021-05-30,55,516.9
+United,Summer,2021-05-31,58,516.94
+United,Summer,2021-06-01,46,578.13
+United,Summer,2021-06-02,56,529.74
+United,Summer,2021-06-03,55,580.6
+United,Summer,2021-06-04,52,505.36
+United,Summer,2021-06-05,58,572.39
+United,Summer,2021-06-06,52,506.14
+United,Summer,2021-06-07,51,565.14
+United,Summer,2021-06-08,59,581.79
+United,Summer,2021-06-09,57,538.25
+United,Summer,2021-06-10,60,557.18
+United,Summer,2021-06-11,57,565.21
+United,Summer,2021-06-12,56,527.54
+United,Summer,2021-06-13,51,559.4
+United,Summer,2021-06-14,55,540.64
+United,Summer,2021-06-15,59,524.51
+United,Summer,2022-05-15,57,534.04
+United,Summer,2022-05-16,60,562.0
+United,Summer,2022-05-17,60,558.6
+United,Summer,2022-05-18,42,560.82
+United,Summer,2022-05-19,59,522.61
+United,Summer,2022-05-20,60,569.62
+United,Summer,2022-05-21,59,561.93
+United,Summer,2022-05-22,58,569.31
+United,Summer,2022-05-23,56,572.71
+United,Summer,2022-05-24,51,566.27
+United,Summer,2022-05-25,44,536.22
+United,Summer,2022-05-26,58,521.05
+United,Summer,2022-05-27,60,537.48
+United,Summer,2022-05-28,55,554.55
+United,Summer,2022-05-29,60,553.95
+United,Summer,2022-05-30,54,569.18
+United,Summer,2022-05-31,55,554.76
+United,Summer,2022-06-01,56,539.87
+United,Summer,2022-06-02,53,574.5
+United,Summer,2022-06-03,58,571.75
+United,Summer,2022-06-04,58,583.34
+United,Summer,2022-06-05,60,571.29
+United,Summer,2022-06-06,53,559.33
+United,Summer,2022-06-07,60,530.21
+United,Summer,2022-06-08,57,572.66
+United,Summer,2022-06-09,37,535.96
+United,Summer,2022-06-10,38,515.78
+United,Summer,2022-06-11,55,541.66
+United,Summer,2022-06-12,60,549.22
+United,Summer,2022-06-13,56,534.99
+United,Summer,2022-06-14,44,547.26
+United,Summer,2022-06-15,51,537.25
+United,Summer,2023-05-15,57,549.72
+United,Summer,2023-05-16,60,548.56
+United,Summer,2023-05-17,55,549.34
+United,Summer,2023-05-18,48,568.68
+United,Summer,2023-05-19,50,579.71
+United,Summer,2023-05-20,60,545.53
+United,Summer,2023-05-21,57,533.63
+United,Summer,2023-05-22,48,533.84
+United,Summer,2023-05-23,60,571.43
+United,Summer,2023-05-24,48,577.3
+United,Summer,2023-05-25,55,549.65
+United,Summer,2023-05-26,44,520.45
+United,Summer,2023-05-27,55,556.75
+United,Summer,2023-05-28,58,552.72
+United,Summer,2023-05-29,44,574.71
+United,Summer,2023-05-30,56,520.92
+United,Summer,2023-05-31,60,549.03
+United,Summer,2023-06-01,54,573.27
+United,Summer,2023-06-02,55,568.0
+United,Summer,2023-06-03,52,579.47
+United,Summer,2023-06-04,53,525.89
+United,Summer,2023-06-05,57,557.1
+United,Summer,2023-06-06,56,535.62
+United,Summer,2023-06-07,58,556.74
+United,Summer,2023-06-08,58,528.19
+United,Summer,2023-06-09,52,557.37
+United,Summer,2023-06-10,55,531.37
+United,Summer,2023-06-11,59,560.69
+United,Summer,2023-06-12,60,541.82
+United,Summer,2023-06-13,29,572.6
+United,Summer,2023-06-14,53,570.64
+United,Summer,2023-06-15,59,585.91
+United,Summer,2024-05-15,58,563.04
+United,Summer,2024-05-16,59,531.14
+United,Summer,2024-05-17,58,533.5
+United,Summer,2024-05-18,52,560.21
+United,Summer,2024-05-19,53,513.76
+United,Summer,2024-05-20,60,540.28
+United,Summer,2024-05-21,60,548.81
+United,Summer,2024-05-22,46,548.54
+United,Summer,2024-05-23,60,578.82
+United,Summer,2024-05-24,60,515.05
+United,Summer,2024-05-25,60,538.62
+United,Summer,2024-05-26,58,510.24
+United,Summer,2024-05-27,56,557.2
+United,Summer,2024-05-28,49,567.42
+United,Summer,2024-05-29,57,502.84
+United,Summer,2024-05-30,58,551.14
+United,Summer,2024-05-31,50,545.38
+United,Summer,2024-06-01,37,563.93
+United,Summer,2024-06-02,56,555.09
+United,Summer,2024-06-03,44,561.07
+United,Summer,2024-06-04,47,565.23
+United,Summer,2024-06-05,51,532.38
+United,Summer,2024-06-06,48,566.0
+United,Summer,2024-06-07,50,573.87
+United,Summer,2024-06-08,59,573.85
+United,Summer,2024-06-09,51,527.37
+United,Summer,2024-06-10,48,523.88
+United,Summer,2024-06-11,54,568.22
+United,Summer,2024-06-12,53,551.53
+United,Summer,2024-06-13,55,531.34
+United,Summer,2024-06-14,22,594.68
+United,Summer,2024-06-15,54,539.34
+United,Fall,2015-08-23,60,558.41
+United,Fall,2015-08-24,56,570.5
+United,Fall,2015-08-25,60,549.72
+United,Fall,2015-08-26,42,568.53
+United,Fall,2015-08-27,42,585.65
+United,Fall,2015-08-28,55,549.7
+United,Fall,2015-08-29,59,529.45
+United,Fall,2015-08-30,58,549.96
+United,Fall,2015-08-31,58,526.18
+United,Fall,2015-09-01,51,589.06
+United,Fall,2015-09-02,53,565.39
+United,Fall,2015-09-03,34,550.48
+United,Fall,2015-09-04,56,564.35
+United,Fall,2015-09-05,58,559.44
+United,Fall,2015-09-06,56,535.83
+United,Fall,2015-09-07,58,545.14
+United,Fall,2015-09-08,53,527.19
+United,Fall,2015-09-09,58,556.07
+United,Fall,2015-09-10,55,515.11
+United,Fall,2015-09-11,59,578.09
+United,Fall,2015-09-12,58,515.59
+United,Fall,2015-09-13,48,557.11
+United,Fall,2015-09-14,37,537.19
+United,Fall,2015-09-15,58,545.99
+United,Fall,2015-09-16,44,573.51
+United,Fall,2015-09-17,54,533.37
+United,Fall,2015-09-18,49,563.87
+United,Fall,2015-09-19,58,542.97
+United,Fall,2015-09-20,52,564.47
+United,Fall,2015-09-21,60,563.69
+United,Fall,2015-09-22,59,570.54
+United,Fall,2015-09-23,49,561.88
+United,Fall,2016-08-23,46,561.99
+United,Fall,2016-08-24,59,536.01
+United,Fall,2016-08-25,57,546.26
+United,Fall,2016-08-26,54,540.12
+United,Fall,2016-08-27,47,564.12
+United,Fall,2016-08-28,55,569.15
+United,Fall,2016-08-29,60,578.37
+United,Fall,2016-08-30,59,544.05
+United,Fall,2016-08-31,55,553.67
+United,Fall,2016-09-01,57,508.38
+United,Fall,2016-09-02,60,530.24
+United,Fall,2016-09-03,48,601.16
+United,Fall,2016-09-04,54,540.94
+United,Fall,2016-09-05,53,601.77
+United,Fall,2016-09-06,57,550.09
+United,Fall,2016-09-07,46,564.54
+United,Fall,2016-09-08,57,572.65
+United,Fall,2016-09-09,48,523.45
+United,Fall,2016-09-10,58,559.41
+United,Fall,2016-09-11,39,577.46
+United,Fall,2016-09-12,47,547.48
+United,Fall,2016-09-13,51,535.04
+United,Fall,2016-09-14,52,563.17
+United,Fall,2016-09-15,60,522.55
+United,Fall,2016-09-16,57,547.79
+United,Fall,2016-09-17,57,577.43
+United,Fall,2016-09-18,60,572.8
+United,Fall,2016-09-19,60,548.57
+United,Fall,2016-09-20,54,535.77
+United,Fall,2016-09-21,60,569.66
+United,Fall,2016-09-22,55,541.5
+United,Fall,2016-09-23,58,569.92
+United,Fall,2017-08-23,59,534.93
+United,Fall,2017-08-24,52,540.34
+United,Fall,2017-08-25,58,519.91
+United,Fall,2017-08-26,55,569.11
+United,Fall,2017-08-27,56,569.06
+United,Fall,2017-08-28,42,570.57
+United,Fall,2017-08-29,53,544.76
+United,Fall,2017-08-30,56,558.32
+United,Fall,2017-08-31,58,545.09
+United,Fall,2017-09-01,60,577.24
+United,Fall,2017-09-02,56,555.94
+United,Fall,2017-09-03,60,519.55
+United,Fall,2017-09-04,50,587.91
+United,Fall,2017-09-05,59,567.77
+United,Fall,2017-09-06,60,540.64
+United,Fall,2017-09-07,57,587.75
+United,Fall,2017-09-08,59,577.66
+United,Fall,2017-09-09,52,559.62
+United,Fall,2017-09-10,53,550.49
+United,Fall,2017-09-11,53,555.89
+United,Fall,2017-09-12,57,539.97
+United,Fall,2017-09-13,54,576.64
+United,Fall,2017-09-14,60,538.05
+United,Fall,2017-09-15,54,550.8
+United,Fall,2017-09-16,33,554.94
+United,Fall,2017-09-17,47,555.86
+United,Fall,2017-09-18,55,546.01
+United,Fall,2017-09-19,59,555.05
+United,Fall,2017-09-20,59,561.69
+United,Fall,2017-09-21,46,562.65
+United,Fall,2017-09-22,57,533.98
+United,Fall,2017-09-23,45,568.51
+United,Fall,2018-08-23,56,537.18
+United,Fall,2018-08-24,60,563.59
+United,Fall,2018-08-25,55,554.29
+United,Fall,2018-08-26,56,526.88
+United,Fall,2018-08-27,30,556.79
+United,Fall,2018-08-28,46,516.76
+United,Fall,2018-08-29,40,552.82
+United,Fall,2018-08-30,53,563.06
+United,Fall,2018-08-31,41,527.6
+United,Fall,2018-09-01,59,566.99
+United,Fall,2018-09-02,57,559.44
+United,Fall,2018-09-03,56,533.15
+United,Fall,2018-09-04,60,538.72
+United,Fall,2018-09-05,58,518.95
+United,Fall,2018-09-06,58,528.49
+United,Fall,2018-09-07,46,503.72
+United,Fall,2018-09-08,48,542.87
+United,Fall,2018-09-09,60,570.01
+United,Fall,2018-09-10,44,503.9
+United,Fall,2018-09-11,55,578.23
+United,Fall,2018-09-12,42,534.37
+United,Fall,2018-09-13,54,494.59
+United,Fall,2018-09-14,57,557.16
+United,Fall,2018-09-15,54,557.08
+United,Fall,2018-09-16,50,550.54
+United,Fall,2018-09-17,5,550.52
+United,Fall,2018-09-18,59,555.57
+United,Fall,2018-09-19,57,566.6
+United,Fall,2018-09-20,58,580.06
+United,Fall,2018-09-21,48,582.76
+United,Fall,2018-09-22,52,540.67
+United,Fall,2018-09-23,57,513.44
+United,Fall,2019-08-23,53,548.32
+United,Fall,2019-08-24,36,512.75
+United,Fall,2019-08-25,53,543.42
+United,Fall,2019-08-26,60,512.84
+United,Fall,2019-08-27,45,557.73
+United,Fall,2019-08-28,41,568.3
+United,Fall,2019-08-29,55,567.99
+United,Fall,2019-08-30,48,505.78
+United,Fall,2019-08-31,50,566.35
+United,Fall,2019-09-01,55,560.81
+United,Fall,2019-09-02,42,558.99
+United,Fall,2019-09-03,53,579.44
+United,Fall,2019-09-04,58,492.65
+United,Fall,2019-09-05,58,557.1
+United,Fall,2019-09-06,44,580.98
+United,Fall,2019-09-07,50,571.2
+United,Fall,2019-09-08,59,535.29
+United,Fall,2019-09-09,47,570.0
+United,Fall,2019-09-10,58,531.15
+United,Fall,2019-09-11,53,555.36
+United,Fall,2019-09-12,53,542.52
+United,Fall,2019-09-13,57,536.09
+United,Fall,2019-09-14,54,569.84
+United,Fall,2019-09-15,56,574.53
+United,Fall,2019-09-16,60,519.46
+United,Fall,2019-09-17,56,549.17
+United,Fall,2019-09-18,46,568.64
+United,Fall,2019-09-19,58,525.26
+United,Fall,2019-09-20,45,586.97
+United,Fall,2019-09-21,57,523.27
+United,Fall,2019-09-22,35,536.66
+United,Fall,2019-09-23,45,539.86
+United,Fall,2020-08-23,49,529.09
+United,Fall,2020-08-24,59,547.13
+United,Fall,2020-08-25,43,543.07
+United,Fall,2020-08-26,55,556.57
+United,Fall,2020-08-27,45,570.15
+United,Fall,2020-08-28,49,539.28
+United,Fall,2020-08-29,60,569.3
+United,Fall,2020-08-30,53,552.07
+United,Fall,2020-08-31,57,563.47
+United,Fall,2020-09-01,50,547.93
+United,Fall,2020-09-02,55,536.24
+United,Fall,2020-09-03,54,548.94
+United,Fall,2020-09-04,60,539.1
+United,Fall,2020-09-05,58,548.61
+United,Fall,2020-09-06,58,559.93
+United,Fall,2020-09-07,60,550.85
+United,Fall,2020-09-08,56,552.44
+United,Fall,2020-09-09,41,520.21
+United,Fall,2020-09-10,46,540.75
+United,Fall,2020-09-11,54,563.9
+United,Fall,2020-09-12,42,526.97
+United,Fall,2020-09-13,58,534.93
+United,Fall,2020-09-14,56,554.11
+United,Fall,2020-09-15,52,595.08
+United,Fall,2020-09-16,53,544.06
+United,Fall,2020-09-17,52,559.46
+United,Fall,2020-09-18,59,547.99
+United,Fall,2020-09-19,47,552.6
+United,Fall,2020-09-20,50,565.78
+United,Fall,2020-09-21,54,542.19
+United,Fall,2020-09-22,60,545.56
+United,Fall,2020-09-23,57,530.37
+United,Fall,2021-08-23,55,539.54
+United,Fall,2021-08-24,56,565.55
+United,Fall,2021-08-25,58,543.97
+United,Fall,2021-08-26,52,508.47
+United,Fall,2021-08-27,54,538.32
+United,Fall,2021-08-28,51,580.64
+United,Fall,2021-08-29,59,516.89
+United,Fall,2021-08-30,60,528.99
+United,Fall,2021-08-31,44,574.19
+United,Fall,2021-09-01,54,573.76
+United,Fall,2021-09-02,57,564.65
+United,Fall,2021-09-03,14,548.08
+United,Fall,2021-09-04,55,541.09
+United,Fall,2021-09-05,47,554.01
+United,Fall,2021-09-06,58,576.54
+United,Fall,2021-09-07,57,547.47
+United,Fall,2021-09-08,53,561.21
+United,Fall,2021-09-09,50,587.11
+United,Fall,2021-09-10,58,532.04
+United,Fall,2021-09-11,60,559.03
+United,Fall,2021-09-12,57,540.18
+United,Fall,2021-09-13,54,532.84
+United,Fall,2021-09-14,60,530.11
+United,Fall,2021-09-15,56,542.77
+United,Fall,2021-09-16,58,567.88
+United,Fall,2021-09-17,55,544.09
+United,Fall,2021-09-18,57,566.83
+United,Fall,2021-09-19,57,560.06
+United,Fall,2021-09-20,38,543.17
+United,Fall,2021-09-21,55,553.95
+United,Fall,2021-09-22,57,520.23
+United,Fall,2021-09-23,41,574.64
+United,Fall,2022-08-23,53,510.65
+United,Fall,2022-08-24,59,504.04
+United,Fall,2022-08-25,51,555.29
+United,Fall,2022-08-26,47,554.25
+United,Fall,2022-08-27,57,492.64
+United,Fall,2022-08-28,31,538.19
+United,Fall,2022-08-29,60,525.16
+United,Fall,2022-08-30,50,554.83
+United,Fall,2022-08-31,50,556.19
+United,Fall,2022-09-01,59,537.83
+United,Fall,2022-09-02,60,540.34
+United,Fall,2022-09-03,51,547.14
+United,Fall,2022-09-04,52,555.9
+United,Fall,2022-09-05,54,575.4
+United,Fall,2022-09-06,55,551.13
+United,Fall,2022-09-07,60,536.57
+United,Fall,2022-09-08,58,557.46
+United,Fall,2022-09-09,44,569.88
+United,Fall,2022-09-10,56,529.34
+United,Fall,2022-09-11,48,564.58
+United,Fall,2022-09-12,60,560.71
+United,Fall,2022-09-13,47,584.45
+United,Fall,2022-09-14,47,542.44
+United,Fall,2022-09-15,60,553.26
+United,Fall,2022-09-16,55,560.43
+United,Fall,2022-09-17,49,562.33
+United,Fall,2022-09-18,43,551.53
+United,Fall,2022-09-19,60,579.4
+United,Fall,2022-09-20,56,534.24
+United,Fall,2022-09-21,56,549.56
+United,Fall,2022-09-22,57,562.88
+United,Fall,2022-09-23,57,572.31
+United,Fall,2023-08-23,58,572.54
+United,Fall,2023-08-24,48,524.94
+United,Fall,2023-08-25,57,512.88
+United,Fall,2023-08-26,50,551.18
+United,Fall,2023-08-27,45,564.44
+United,Fall,2023-08-28,49,563.53
+United,Fall,2023-08-29,52,553.57
+United,Fall,2023-08-30,60,572.8
+United,Fall,2023-08-31,52,542.01
+United,Fall,2023-09-01,57,582.6
+United,Fall,2023-09-02,54,582.91
+United,Fall,2023-09-03,60,518.78
+United,Fall,2023-09-04,49,574.68
+United,Fall,2023-09-05,55,574.18
+United,Fall,2023-09-06,56,495.42
+United,Fall,2023-09-07,60,524.35
+United,Fall,2023-09-08,58,514.07
+United,Fall,2023-09-09,58,563.33
+United,Fall,2023-09-10,56,567.52
+United,Fall,2023-09-11,57,573.82
+United,Fall,2023-09-12,47,544.61
+United,Fall,2023-09-13,49,552.86
+United,Fall,2023-09-14,49,559.72
+United,Fall,2023-09-15,50,546.6
+United,Fall,2023-09-16,55,552.16
+United,Fall,2023-09-17,45,594.83
+United,Fall,2023-09-18,60,583.59
+United,Fall,2023-09-19,38,586.26
+United,Fall,2023-09-20,60,486.01
+United,Fall,2023-09-21,59,518.93
+United,Fall,2023-09-22,58,542.08
+United,Fall,2023-09-23,56,531.13
+United,Fall,2024-08-23,59,547.94
+United,Fall,2024-08-24,40,580.0
+United,Fall,2024-08-25,52,573.46
+United,Fall,2024-08-26,60,576.28
+United,Fall,2024-08-27,49,554.34
+United,Fall,2024-08-28,59,555.35
+United,Fall,2024-08-29,58,574.29
+United,Fall,2024-08-30,54,543.9
+United,Fall,2024-08-31,53,544.25
+United,Fall,2024-09-01,57,561.63
+United,Fall,2024-09-02,49,520.01
+United,Fall,2024-09-03,46,535.25
+United,Fall,2024-09-04,58,556.14
+United,Fall,2024-09-05,59,554.84
+United,Fall,2024-09-06,58,518.72
+United,Fall,2024-09-07,54,555.11
+United,Fall,2024-09-08,36,564.88
+United,Fall,2024-09-09,53,545.59
+United,Fall,2024-09-10,57,536.36
+United,Fall,2024-09-11,53,551.53
+United,Fall,2024-09-12,58,510.74
+United,Fall,2024-09-13,60,570.9
+United,Fall,2024-09-14,56,579.78
+United,Fall,2024-09-15,42,559.82
+United,Fall,2024-09-16,59,536.02
+United,Fall,2024-09-17,57,570.71
+United,Fall,2024-09-18,50,576.43
+United,Fall,2024-09-19,54,532.19
+United,Fall,2024-09-20,56,576.92
+United,Fall,2024-09-21,50,543.47
+United,Fall,2024-09-22,53,578.25
+United,Fall,2024-09-23,60,529.87
+Emirates,Summer,2015-05-15,57,501.57
+Emirates,Summer,2015-05-16,56,560.09
+Emirates,Summer,2015-05-17,57,512.51
+Emirates,Summer,2015-05-18,53,549.75
+Emirates,Summer,2015-05-19,48,521.61
+Emirates,Summer,2015-05-20,55,547.98
+Emirates,Summer,2015-05-21,35,530.79
+Emirates,Summer,2015-05-22,60,515.44
+Emirates,Summer,2015-05-23,53,536.08
+Emirates,Summer,2015-05-24,53,553.63
+Emirates,Summer,2015-05-25,43,565.67
+Emirates,Summer,2015-05-26,53,589.03
+Emirates,Summer,2015-05-27,56,565.61
+Emirates,Summer,2015-05-28,56,566.32
+Emirates,Summer,2015-05-29,49,569.12
+Emirates,Summer,2015-05-30,53,548.27
+Emirates,Summer,2015-05-31,51,565.98
+Emirates,Summer,2015-06-01,59,546.2
+Emirates,Summer,2015-06-02,57,562.57
+Emirates,Summer,2015-06-03,54,579.58
+Emirates,Summer,2015-06-04,60,555.12
+Emirates,Summer,2015-06-05,52,563.52
+Emirates,Summer,2015-06-06,50,558.49
+Emirates,Summer,2015-06-07,54,512.05
+Emirates,Summer,2015-06-08,55,491.24
+Emirates,Summer,2015-06-09,57,499.59
+Emirates,Summer,2015-06-10,58,576.93
+Emirates,Summer,2015-06-11,57,584.93
+Emirates,Summer,2015-06-12,54,568.06
+Emirates,Summer,2015-06-13,55,543.45
+Emirates,Summer,2015-06-14,57,563.24
+Emirates,Summer,2015-06-15,54,517.72
+Emirates,Summer,2016-05-15,46,558.63
+Emirates,Summer,2016-05-16,57,576.56
+Emirates,Summer,2016-05-17,54,551.61
+Emirates,Summer,2016-05-18,55,556.76
+Emirates,Summer,2016-05-19,57,548.56
+Emirates,Summer,2016-05-20,55,574.02
+Emirates,Summer,2016-05-21,51,548.45
+Emirates,Summer,2016-05-22,50,510.39
+Emirates,Summer,2016-05-23,60,562.77
+Emirates,Summer,2016-05-24,42,553.85
+Emirates,Summer,2016-05-25,58,574.38
+Emirates,Summer,2016-05-26,53,570.84
+Emirates,Summer,2016-05-27,59,560.56
+Emirates,Summer,2016-05-28,56,552.27
+Emirates,Summer,2016-05-29,49,545.9
+Emirates,Summer,2016-05-30,57,551.12
+Emirates,Summer,2016-05-31,58,540.51
+Emirates,Summer,2016-06-01,52,556.78
+Emirates,Summer,2016-06-02,55,522.03
+Emirates,Summer,2016-06-03,54,509.58
+Emirates,Summer,2016-06-04,54,538.15
+Emirates,Summer,2016-06-05,53,545.62
+Emirates,Summer,2016-06-06,38,543.71
+Emirates,Summer,2016-06-07,49,546.11
+Emirates,Summer,2016-06-08,55,563.76
+Emirates,Summer,2016-06-09,54,570.14
+Emirates,Summer,2016-06-10,48,550.44
+Emirates,Summer,2016-06-11,55,541.79
+Emirates,Summer,2016-06-12,60,577.2
+Emirates,Summer,2016-06-13,58,572.31
+Emirates,Summer,2016-06-14,60,554.99
+Emirates,Summer,2016-06-15,53,527.25
+Emirates,Summer,2017-05-15,49,523.1
+Emirates,Summer,2017-05-16,25,557.8
+Emirates,Summer,2017-05-17,52,527.78
+Emirates,Summer,2017-05-18,54,571.1
+Emirates,Summer,2017-05-19,47,529.17
+Emirates,Summer,2017-05-20,35,551.19
+Emirates,Summer,2017-05-21,55,507.54
+Emirates,Summer,2017-05-22,58,573.96
+Emirates,Summer,2017-05-23,58,527.69
+Emirates,Summer,2017-05-24,45,555.1
+Emirates,Summer,2017-05-25,59,552.49
+Emirates,Summer,2017-05-26,49,561.19
+Emirates,Summer,2017-05-27,59,544.12
+Emirates,Summer,2017-05-28,52,532.58
+Emirates,Summer,2017-05-29,56,562.58
+Emirates,Summer,2017-05-30,24,546.61
+Emirates,Summer,2017-05-31,39,565.96
+Emirates,Summer,2017-06-01,36,561.88
+Emirates,Summer,2017-06-02,44,550.56
+Emirates,Summer,2017-06-03,40,558.59
+Emirates,Summer,2017-06-04,60,549.56
+Emirates,Summer,2017-06-05,60,557.92
+Emirates,Summer,2017-06-06,57,569.0
+Emirates,Summer,2017-06-07,52,541.04
+Emirates,Summer,2017-06-08,51,551.54
+Emirates,Summer,2017-06-09,49,510.44
+Emirates,Summer,2017-06-10,60,508.79
+Emirates,Summer,2017-06-11,59,492.07
+Emirates,Summer,2017-06-12,53,526.58
+Emirates,Summer,2017-06-13,59,546.86
+Emirates,Summer,2017-06-14,56,575.45
+Emirates,Summer,2017-06-15,48,576.29
+Emirates,Summer,2018-05-15,56,550.08
+Emirates,Summer,2018-05-16,57,547.32
+Emirates,Summer,2018-05-17,59,579.14
+Emirates,Summer,2018-05-18,50,539.8
+Emirates,Summer,2018-05-19,55,555.9
+Emirates,Summer,2018-05-20,59,537.48
+Emirates,Summer,2018-05-21,58,582.52
+Emirates,Summer,2018-05-22,41,560.77
+Emirates,Summer,2018-05-23,57,535.72
+Emirates,Summer,2018-05-24,52,570.94
+Emirates,Summer,2018-05-25,57,566.77
+Emirates,Summer,2018-05-26,52,550.03
+Emirates,Summer,2018-05-27,55,552.61
+Emirates,Summer,2018-05-28,39,569.05
+Emirates,Summer,2018-05-29,57,571.39
+Emirates,Summer,2018-05-30,58,548.25
+Emirates,Summer,2018-05-31,56,565.92
+Emirates,Summer,2018-06-01,51,557.62
+Emirates,Summer,2018-06-02,58,571.85
+Emirates,Summer,2018-06-03,58,568.43
+Emirates,Summer,2018-06-04,60,578.16
+Emirates,Summer,2018-06-05,60,558.4
+Emirates,Summer,2018-06-06,58,547.42
+Emirates,Summer,2018-06-07,59,545.73
+Emirates,Summer,2018-06-08,57,529.86
+Emirates,Summer,2018-06-09,59,551.16
+Emirates,Summer,2018-06-10,57,575.26
+Emirates,Summer,2018-06-11,28,514.98
+Emirates,Summer,2018-06-12,57,544.96
+Emirates,Summer,2018-06-13,60,537.77
+Emirates,Summer,2018-06-14,59,519.33
+Emirates,Summer,2018-06-15,60,564.24
+Emirates,Summer,2019-05-15,44,511.13
+Emirates,Summer,2019-05-16,59,553.64
+Emirates,Summer,2019-05-17,47,545.68
+Emirates,Summer,2019-05-18,54,574.67
+Emirates,Summer,2019-05-19,54,559.46
+Emirates,Summer,2019-05-20,60,569.69
+Emirates,Summer,2019-05-21,60,563.57
+Emirates,Summer,2019-05-22,46,517.25
+Emirates,Summer,2019-05-23,60,539.64
+Emirates,Summer,2019-05-24,60,546.8
+Emirates,Summer,2019-05-25,56,552.96
+Emirates,Summer,2019-05-26,60,474.26
+Emirates,Summer,2019-05-27,60,515.03
+Emirates,Summer,2019-05-28,56,555.44
+Emirates,Summer,2019-05-29,59,525.53
+Emirates,Summer,2019-05-30,59,553.9
+Emirates,Summer,2019-05-31,56,561.64
+Emirates,Summer,2019-06-01,50,537.48
+Emirates,Summer,2019-06-02,42,556.32
+Emirates,Summer,2019-06-03,55,558.83
+Emirates,Summer,2019-06-04,60,558.33
+Emirates,Summer,2019-06-05,60,581.58
+Emirates,Summer,2019-06-06,49,537.6
+Emirates,Summer,2019-06-07,59,564.11
+Emirates,Summer,2019-06-08,39,583.49
+Emirates,Summer,2019-06-09,58,585.33
+Emirates,Summer,2019-06-10,60,543.19
+Emirates,Summer,2019-06-11,48,568.97
+Emirates,Summer,2019-06-12,50,560.27
+Emirates,Summer,2019-06-13,52,569.21
+Emirates,Summer,2019-06-14,44,554.14
+Emirates,Summer,2019-06-15,44,550.15
+Emirates,Summer,2020-05-15,47,552.37
+Emirates,Summer,2020-05-16,58,540.17
+Emirates,Summer,2020-05-17,59,532.19
+Emirates,Summer,2020-05-18,56,556.29
+Emirates,Summer,2020-05-19,60,540.97
+Emirates,Summer,2020-05-20,59,524.71
+Emirates,Summer,2020-05-21,56,568.9
+Emirates,Summer,2020-05-22,58,545.88
+Emirates,Summer,2020-05-23,48,544.48
+Emirates,Summer,2020-05-24,59,565.85
+Emirates,Summer,2020-05-25,60,564.45
+Emirates,Summer,2020-05-26,46,569.3
+Emirates,Summer,2020-05-27,58,551.26
+Emirates,Summer,2020-05-28,56,535.55
+Emirates,Summer,2020-05-29,56,584.02
+Emirates,Summer,2020-05-30,8,566.8
+Emirates,Summer,2020-05-31,45,560.78
+Emirates,Summer,2020-06-01,60,520.44
+Emirates,Summer,2020-06-02,59,553.21
+Emirates,Summer,2020-06-03,35,536.54
+Emirates,Summer,2020-06-04,54,556.7
+Emirates,Summer,2020-06-05,56,535.69
+Emirates,Summer,2020-06-06,51,526.34
+Emirates,Summer,2020-06-07,58,511.79
+Emirates,Summer,2020-06-08,53,547.81
+Emirates,Summer,2020-06-09,58,552.85
+Emirates,Summer,2020-06-10,58,522.41
+Emirates,Summer,2020-06-11,58,540.84
+Emirates,Summer,2020-06-12,60,551.87
+Emirates,Summer,2020-06-13,37,557.02
+Emirates,Summer,2020-06-14,52,541.57
+Emirates,Summer,2020-06-15,55,591.07
+Emirates,Summer,2021-05-15,60,563.44
+Emirates,Summer,2021-05-16,54,573.0
+Emirates,Summer,2021-05-17,54,511.67
+Emirates,Summer,2021-05-18,55,587.11
+Emirates,Summer,2021-05-19,56,557.83
+Emirates,Summer,2021-05-20,53,538.23
+Emirates,Summer,2021-05-21,57,574.28
+Emirates,Summer,2021-05-22,56,557.56
+Emirates,Summer,2021-05-23,58,558.68
+Emirates,Summer,2021-05-24,59,554.12
+Emirates,Summer,2021-05-25,58,576.75
+Emirates,Summer,2021-05-26,55,548.81
+Emirates,Summer,2021-05-27,59,550.0
+Emirates,Summer,2021-05-28,37,579.63
+Emirates,Summer,2021-05-29,57,575.02
+Emirates,Summer,2021-05-30,59,549.91
+Emirates,Summer,2021-05-31,42,566.38
+Emirates,Summer,2021-06-01,56,536.56
+Emirates,Summer,2021-06-02,55,554.93
+Emirates,Summer,2021-06-03,33,533.63
+Emirates,Summer,2021-06-04,58,579.5
+Emirates,Summer,2021-06-05,55,568.82
+Emirates,Summer,2021-06-06,45,556.08
+Emirates,Summer,2021-06-07,59,567.67
+Emirates,Summer,2021-06-08,60,558.54
+Emirates,Summer,2021-06-09,50,544.55
+Emirates,Summer,2021-06-10,60,551.84
+Emirates,Summer,2021-06-11,59,586.74
+Emirates,Summer,2021-06-12,54,512.86
+Emirates,Summer,2021-06-13,55,545.13
+Emirates,Summer,2021-06-14,58,528.74
+Emirates,Summer,2021-06-15,57,541.45
+Emirates,Summer,2022-05-15,58,590.87
+Emirates,Summer,2022-05-16,58,559.34
+Emirates,Summer,2022-05-17,47,498.1
+Emirates,Summer,2022-05-18,47,580.94
+Emirates,Summer,2022-05-19,60,506.03
+Emirates,Summer,2022-05-20,59,561.96
+Emirates,Summer,2022-05-21,53,526.77
+Emirates,Summer,2022-05-22,58,551.23
+Emirates,Summer,2022-05-23,51,534.08
+Emirates,Summer,2022-05-24,47,547.29
+Emirates,Summer,2022-05-25,59,483.27
+Emirates,Summer,2022-05-26,59,550.78
+Emirates,Summer,2022-05-27,59,517.62
+Emirates,Summer,2022-05-28,43,573.32
+Emirates,Summer,2022-05-29,60,567.59
+Emirates,Summer,2022-05-30,54,525.08
+Emirates,Summer,2022-05-31,50,499.27
+Emirates,Summer,2022-06-01,45,550.79
+Emirates,Summer,2022-06-02,47,558.53
+Emirates,Summer,2022-06-03,55,580.19
+Emirates,Summer,2022-06-04,57,502.53
+Emirates,Summer,2022-06-05,60,579.99
+Emirates,Summer,2022-06-06,57,561.3
+Emirates,Summer,2022-06-07,58,554.89
+Emirates,Summer,2022-06-08,54,505.98
+Emirates,Summer,2022-06-09,53,562.78
+Emirates,Summer,2022-06-10,60,563.87
+Emirates,Summer,2022-06-11,56,565.73
+Emirates,Summer,2022-06-12,47,573.46
+Emirates,Summer,2022-06-13,51,561.67
+Emirates,Summer,2022-06-14,49,526.14
+Emirates,Summer,2022-06-15,56,537.96
+Emirates,Summer,2023-05-15,58,567.86
+Emirates,Summer,2023-05-16,59,552.16
+Emirates,Summer,2023-05-17,45,547.26
+Emirates,Summer,2023-05-18,51,529.21
+Emirates,Summer,2023-05-19,49,557.11
+Emirates,Summer,2023-05-20,60,566.64
+Emirates,Summer,2023-05-21,57,539.15
+Emirates,Summer,2023-05-22,59,565.58
+Emirates,Summer,2023-05-23,47,558.22
+Emirates,Summer,2023-05-24,56,563.54
+Emirates,Summer,2023-05-25,59,561.07
+Emirates,Summer,2023-05-26,55,524.74
+Emirates,Summer,2023-05-27,45,567.42
+Emirates,Summer,2023-05-28,25,552.99
+Emirates,Summer,2023-05-29,54,547.73
+Emirates,Summer,2023-05-30,43,498.09
+Emirates,Summer,2023-05-31,59,576.23
+Emirates,Summer,2023-06-01,59,574.39
+Emirates,Summer,2023-06-02,54,541.84
+Emirates,Summer,2023-06-03,50,570.15
+Emirates,Summer,2023-06-04,53,552.88
+Emirates,Summer,2023-06-05,60,546.1
+Emirates,Summer,2023-06-06,53,569.25
+Emirates,Summer,2023-06-07,52,528.56
+Emirates,Summer,2023-06-08,59,512.64
+Emirates,Summer,2023-06-09,49,543.24
+Emirates,Summer,2023-06-10,57,581.72
+Emirates,Summer,2023-06-11,58,568.22
+Emirates,Summer,2023-06-12,55,556.52
+Emirates,Summer,2023-06-13,41,576.29
+Emirates,Summer,2023-06-14,50,582.46
+Emirates,Summer,2023-06-15,49,556.88
+Emirates,Summer,2024-05-15,51,556.38
+Emirates,Summer,2024-05-16,58,581.69
+Emirates,Summer,2024-05-17,48,565.86
+Emirates,Summer,2024-05-18,56,563.91
+Emirates,Summer,2024-05-19,59,570.91
+Emirates,Summer,2024-05-20,56,549.37
+Emirates,Summer,2024-05-21,56,544.59
+Emirates,Summer,2024-05-22,47,558.1
+Emirates,Summer,2024-05-23,55,569.21
+Emirates,Summer,2024-05-24,49,560.11
+Emirates,Summer,2024-05-25,59,531.85
+Emirates,Summer,2024-05-26,60,532.99
+Emirates,Summer,2024-05-27,57,564.77
+Emirates,Summer,2024-05-28,36,539.08
+Emirates,Summer,2024-05-29,58,548.47
+Emirates,Summer,2024-05-30,49,559.28
+Emirates,Summer,2024-05-31,49,522.47
+Emirates,Summer,2024-06-01,59,563.93
+Emirates,Summer,2024-06-02,58,550.35
+Emirates,Summer,2024-06-03,58,548.71
+Emirates,Summer,2024-06-04,41,601.79
+Emirates,Summer,2024-06-05,60,530.52
+Emirates,Summer,2024-06-06,53,507.09
+Emirates,Summer,2024-06-07,59,543.96
+Emirates,Summer,2024-06-08,60,542.29
+Emirates,Summer,2024-06-09,56,549.96
+Emirates,Summer,2024-06-10,44,537.03
+Emirates,Summer,2024-06-11,45,569.41
+Emirates,Summer,2024-06-12,58,569.8
+Emirates,Summer,2024-06-13,60,553.55
+Emirates,Summer,2024-06-14,54,564.5
+Emirates,Summer,2024-06-15,51,553.07
+Emirates,Fall,2015-08-23,54,557.63
+Emirates,Fall,2015-08-24,37,536.45
+Emirates,Fall,2015-08-25,31,522.24
+Emirates,Fall,2015-08-26,54,560.49
+Emirates,Fall,2015-08-27,59,555.78
+Emirates,Fall,2015-08-28,52,568.55
+Emirates,Fall,2015-08-29,59,563.53
+Emirates,Fall,2015-08-30,60,515.62
+Emirates,Fall,2015-08-31,58,556.16
+Emirates,Fall,2015-09-01,60,524.62
+Emirates,Fall,2015-09-02,51,554.7
+Emirates,Fall,2015-09-03,60,577.37
+Emirates,Fall,2015-09-04,55,537.29
+Emirates,Fall,2015-09-05,60,524.9
+Emirates,Fall,2015-09-06,59,529.93
+Emirates,Fall,2015-09-07,52,533.79
+Emirates,Fall,2015-09-08,58,584.17
+Emirates,Fall,2015-09-09,54,555.91
+Emirates,Fall,2015-09-10,58,535.45
+Emirates,Fall,2015-09-11,57,550.44
+Emirates,Fall,2015-09-12,53,546.97
+Emirates,Fall,2015-09-13,52,556.66
+Emirates,Fall,2015-09-14,53,540.65
+Emirates,Fall,2015-09-15,60,561.04
+Emirates,Fall,2015-09-16,20,576.98
+Emirates,Fall,2015-09-17,54,548.35
+Emirates,Fall,2015-09-18,60,572.33
+Emirates,Fall,2015-09-19,57,562.78
+Emirates,Fall,2015-09-20,57,564.89
+Emirates,Fall,2015-09-21,49,556.11
+Emirates,Fall,2015-09-22,51,544.69
+Emirates,Fall,2015-09-23,47,569.35
+Emirates,Fall,2016-08-23,35,549.91
+Emirates,Fall,2016-08-24,51,563.26
+Emirates,Fall,2016-08-25,56,556.58
+Emirates,Fall,2016-08-26,48,528.95
+Emirates,Fall,2016-08-27,60,548.66
+Emirates,Fall,2016-08-28,60,556.69
+Emirates,Fall,2016-08-29,58,547.86
+Emirates,Fall,2016-08-30,56,545.49
+Emirates,Fall,2016-08-31,58,568.4
+Emirates,Fall,2016-09-01,51,547.2
+Emirates,Fall,2016-09-02,57,508.55
+Emirates,Fall,2016-09-03,55,555.86
+Emirates,Fall,2016-09-04,30,581.15
+Emirates,Fall,2016-09-05,59,527.26
+Emirates,Fall,2016-09-06,58,517.05
+Emirates,Fall,2016-09-07,57,520.66
+Emirates,Fall,2016-09-08,58,516.67
+Emirates,Fall,2016-09-09,60,519.46
+Emirates,Fall,2016-09-10,56,538.37
+Emirates,Fall,2016-09-11,60,528.5
+Emirates,Fall,2016-09-12,50,571.58
+Emirates,Fall,2016-09-13,56,537.7
+Emirates,Fall,2016-09-14,60,557.64
+Emirates,Fall,2016-09-15,51,534.64
+Emirates,Fall,2016-09-16,57,551.14
+Emirates,Fall,2016-09-17,48,578.47
+Emirates,Fall,2016-09-18,56,541.4
+Emirates,Fall,2016-09-19,59,528.02
+Emirates,Fall,2016-09-20,49,540.28
+Emirates,Fall,2016-09-21,52,574.28
+Emirates,Fall,2016-09-22,57,552.24
+Emirates,Fall,2016-09-23,49,550.43
+Emirates,Fall,2017-08-23,60,567.62
+Emirates,Fall,2017-08-24,55,512.15
+Emirates,Fall,2017-08-25,58,592.47
+Emirates,Fall,2017-08-26,56,545.45
+Emirates,Fall,2017-08-27,56,560.01
+Emirates,Fall,2017-08-28,60,541.03
+Emirates,Fall,2017-08-29,45,558.51
+Emirates,Fall,2017-08-30,39,472.8
+Emirates,Fall,2017-08-31,58,532.61
+Emirates,Fall,2017-09-01,36,561.76
+Emirates,Fall,2017-09-02,59,553.05
+Emirates,Fall,2017-09-03,58,564.84
+Emirates,Fall,2017-09-04,57,565.95
+Emirates,Fall,2017-09-05,52,533.97
+Emirates,Fall,2017-09-06,53,538.74
+Emirates,Fall,2017-09-07,59,504.18
+Emirates,Fall,2017-09-08,58,569.94
+Emirates,Fall,2017-09-09,39,545.16
+Emirates,Fall,2017-09-10,60,497.85
+Emirates,Fall,2017-09-11,42,547.23
+Emirates,Fall,2017-09-12,57,562.91
+Emirates,Fall,2017-09-13,45,569.3
+Emirates,Fall,2017-09-14,60,555.89
+Emirates,Fall,2017-09-15,58,565.0
+Emirates,Fall,2017-09-16,57,529.54
+Emirates,Fall,2017-09-17,57,549.41
+Emirates,Fall,2017-09-18,57,562.95
+Emirates,Fall,2017-09-19,54,571.5
+Emirates,Fall,2017-09-20,57,579.09
+Emirates,Fall,2017-09-21,59,517.4
+Emirates,Fall,2017-09-22,35,547.52
+Emirates,Fall,2017-09-23,50,513.63
+Emirates,Fall,2018-08-23,60,576.4
+Emirates,Fall,2018-08-24,60,532.73
+Emirates,Fall,2018-08-25,50,547.48
+Emirates,Fall,2018-08-26,59,510.5
+Emirates,Fall,2018-08-27,55,536.74
+Emirates,Fall,2018-08-28,58,577.91
+Emirates,Fall,2018-08-29,52,570.58
+Emirates,Fall,2018-08-30,60,552.49
+Emirates,Fall,2018-08-31,59,524.61
+Emirates,Fall,2018-09-01,60,529.28
+Emirates,Fall,2018-09-02,56,569.05
+Emirates,Fall,2018-09-03,59,511.89
+Emirates,Fall,2018-09-04,59,517.28
+Emirates,Fall,2018-09-05,45,581.06
+Emirates,Fall,2018-09-06,60,553.95
+Emirates,Fall,2018-09-07,54,513.65
+Emirates,Fall,2018-09-08,48,489.92
+Emirates,Fall,2018-09-09,53,571.08
+Emirates,Fall,2018-09-10,56,537.7
+Emirates,Fall,2018-09-11,47,586.69
+Emirates,Fall,2018-09-12,52,569.95
+Emirates,Fall,2018-09-13,59,569.86
+Emirates,Fall,2018-09-14,60,567.22
+Emirates,Fall,2018-09-15,55,545.86
+Emirates,Fall,2018-09-16,56,549.06
+Emirates,Fall,2018-09-17,49,553.78
+Emirates,Fall,2018-09-18,56,516.63
+Emirates,Fall,2018-09-19,54,580.19
+Emirates,Fall,2018-09-20,56,557.72
+Emirates,Fall,2018-09-21,51,559.71
+Emirates,Fall,2018-09-22,47,572.64
+Emirates,Fall,2018-09-23,59,523.86
+Emirates,Fall,2019-08-23,60,567.24
+Emirates,Fall,2019-08-24,52,535.5
+Emirates,Fall,2019-08-25,58,554.25
+Emirates,Fall,2019-08-26,45,564.36
+Emirates,Fall,2019-08-27,55,509.39
+Emirates,Fall,2019-08-28,59,556.44
+Emirates,Fall,2019-08-29,46,483.9
+Emirates,Fall,2019-08-30,45,508.95
+Emirates,Fall,2019-08-31,51,583.42
+Emirates,Fall,2019-09-01,60,501.99
+Emirates,Fall,2019-09-02,41,542.91
+Emirates,Fall,2019-09-03,60,572.29
+Emirates,Fall,2019-09-04,60,528.0
+Emirates,Fall,2019-09-05,59,550.56
+Emirates,Fall,2019-09-06,51,567.17
+Emirates,Fall,2019-09-07,52,551.1
+Emirates,Fall,2019-09-08,54,550.27
+Emirates,Fall,2019-09-09,54,569.2
+Emirates,Fall,2019-09-10,55,545.24
+Emirates,Fall,2019-09-11,58,545.69
+Emirates,Fall,2019-09-12,17,589.94
+Emirates,Fall,2019-09-13,57,563.41
+Emirates,Fall,2019-09-14,52,540.42
+Emirates,Fall,2019-09-15,58,550.94
+Emirates,Fall,2019-09-16,60,530.82
+Emirates,Fall,2019-09-17,47,516.47
+Emirates,Fall,2019-09-18,56,559.94
+Emirates,Fall,2019-09-19,59,532.95
+Emirates,Fall,2019-09-20,60,552.54
+Emirates,Fall,2019-09-21,56,541.48
+Emirates,Fall,2019-09-22,55,501.68
+Emirates,Fall,2019-09-23,46,556.65
+Emirates,Fall,2020-08-23,57,521.38
+Emirates,Fall,2020-08-24,56,542.99
+Emirates,Fall,2020-08-25,60,522.25
+Emirates,Fall,2020-08-26,60,539.76
+Emirates,Fall,2020-08-27,49,577.83
+Emirates,Fall,2020-08-28,50,568.03
+Emirates,Fall,2020-08-29,60,554.74
+Emirates,Fall,2020-08-30,39,580.29
+Emirates,Fall,2020-08-31,57,561.97
+Emirates,Fall,2020-09-01,60,582.23
+Emirates,Fall,2020-09-02,57,575.07
+Emirates,Fall,2020-09-03,49,542.62
+Emirates,Fall,2020-09-04,57,522.72
+Emirates,Fall,2020-09-05,60,568.29
+Emirates,Fall,2020-09-06,58,551.3
+Emirates,Fall,2020-09-07,41,568.2
+Emirates,Fall,2020-09-08,57,580.78
+Emirates,Fall,2020-09-09,51,566.51
+Emirates,Fall,2020-09-10,43,543.46
+Emirates,Fall,2020-09-11,60,534.07
+Emirates,Fall,2020-09-12,57,539.99
+Emirates,Fall,2020-09-13,46,573.15
+Emirates,Fall,2020-09-14,51,590.96
+Emirates,Fall,2020-09-15,59,534.87
+Emirates,Fall,2020-09-16,60,551.9
+Emirates,Fall,2020-09-17,50,535.64
+Emirates,Fall,2020-09-18,49,525.16
+Emirates,Fall,2020-09-19,51,535.12
+Emirates,Fall,2020-09-20,54,519.28
+Emirates,Fall,2020-09-21,53,565.35
+Emirates,Fall,2020-09-22,53,552.01
+Emirates,Fall,2020-09-23,47,556.65
+Emirates,Fall,2021-08-23,56,510.05
+Emirates,Fall,2021-08-24,58,552.63
+Emirates,Fall,2021-08-25,56,563.67
+Emirates,Fall,2021-08-26,53,576.1
+Emirates,Fall,2021-08-27,60,540.7
+Emirates,Fall,2021-08-28,49,566.02
+Emirates,Fall,2021-08-29,59,558.21
+Emirates,Fall,2021-08-30,60,567.22
+Emirates,Fall,2021-08-31,60,569.04
+Emirates,Fall,2021-09-01,60,575.01
+Emirates,Fall,2021-09-02,52,536.24
+Emirates,Fall,2021-09-03,49,563.3
+Emirates,Fall,2021-09-04,34,550.47
+Emirates,Fall,2021-09-05,53,523.7
+Emirates,Fall,2021-09-06,58,539.81
+Emirates,Fall,2021-09-07,44,522.7
+Emirates,Fall,2021-09-08,59,547.77
+Emirates,Fall,2021-09-09,56,540.15
+Emirates,Fall,2021-09-10,54,559.19
+Emirates,Fall,2021-09-11,60,558.23
+Emirates,Fall,2021-09-12,56,573.59
+Emirates,Fall,2021-09-13,53,542.33
+Emirates,Fall,2021-09-14,56,540.02
+Emirates,Fall,2021-09-15,59,552.56
+Emirates,Fall,2021-09-16,56,557.02
+Emirates,Fall,2021-09-17,59,536.13
+Emirates,Fall,2021-09-18,59,545.13
+Emirates,Fall,2021-09-19,54,498.41
+Emirates,Fall,2021-09-20,56,569.97
+Emirates,Fall,2021-09-21,44,555.38
+Emirates,Fall,2021-09-22,41,570.29
+Emirates,Fall,2021-09-23,55,579.63
+Emirates,Fall,2022-08-23,58,522.08
+Emirates,Fall,2022-08-24,41,556.5
+Emirates,Fall,2022-08-25,55,548.22
+Emirates,Fall,2022-08-26,60,571.87
+Emirates,Fall,2022-08-27,60,519.06
+Emirates,Fall,2022-08-28,53,563.72
+Emirates,Fall,2022-08-29,56,522.31
+Emirates,Fall,2022-08-30,60,542.63
+Emirates,Fall,2022-08-31,59,541.79
+Emirates,Fall,2022-09-01,38,553.66
+Emirates,Fall,2022-09-02,54,561.58
+Emirates,Fall,2022-09-03,48,553.0
+Emirates,Fall,2022-09-04,58,574.89
+Emirates,Fall,2022-09-05,43,537.9
+Emirates,Fall,2022-09-06,53,540.77
+Emirates,Fall,2022-09-07,45,581.18
+Emirates,Fall,2022-09-08,56,540.31
+Emirates,Fall,2022-09-09,50,575.91
+Emirates,Fall,2022-09-10,45,569.26
+Emirates,Fall,2022-09-11,42,574.41
+Emirates,Fall,2022-09-12,57,566.33
+Emirates,Fall,2022-09-13,56,542.82
+Emirates,Fall,2022-09-14,58,550.97
+Emirates,Fall,2022-09-15,60,551.86
+Emirates,Fall,2022-09-16,60,586.97
+Emirates,Fall,2022-09-17,60,576.72
+Emirates,Fall,2022-09-18,49,548.54
+Emirates,Fall,2022-09-19,58,563.24
+Emirates,Fall,2022-09-20,58,546.05
+Emirates,Fall,2022-09-21,60,561.64
+Emirates,Fall,2022-09-22,52,550.82
+Emirates,Fall,2022-09-23,59,557.79
+Emirates,Fall,2023-08-23,59,544.2
+Emirates,Fall,2023-08-24,57,579.91
+Emirates,Fall,2023-08-25,57,552.41
+Emirates,Fall,2023-08-26,59,586.21
+Emirates,Fall,2023-08-27,60,570.03
+Emirates,Fall,2023-08-28,46,556.69
+Emirates,Fall,2023-08-29,60,532.87
+Emirates,Fall,2023-08-30,59,573.0
+Emirates,Fall,2023-08-31,53,568.41
+Emirates,Fall,2023-09-01,57,553.58
+Emirates,Fall,2023-09-02,51,546.62
+Emirates,Fall,2023-09-03,52,550.63
+Emirates,Fall,2023-09-04,50,539.97
+Emirates,Fall,2023-09-05,47,584.61
+Emirates,Fall,2023-09-06,58,544.65
+Emirates,Fall,2023-09-07,59,550.58
+Emirates,Fall,2023-09-08,59,552.85
+Emirates,Fall,2023-09-09,52,551.61
+Emirates,Fall,2023-09-10,57,545.44
+Emirates,Fall,2023-09-11,57,534.12
+Emirates,Fall,2023-09-12,57,549.83
+Emirates,Fall,2023-09-13,51,529.19
+Emirates,Fall,2023-09-14,58,555.84
+Emirates,Fall,2023-09-15,46,564.05
+Emirates,Fall,2023-09-16,56,550.49
+Emirates,Fall,2023-09-17,53,515.24
+Emirates,Fall,2023-09-18,55,564.25
+Emirates,Fall,2023-09-19,59,542.58
+Emirates,Fall,2023-09-20,51,554.67
+Emirates,Fall,2023-09-21,52,563.21
+Emirates,Fall,2023-09-22,60,565.02
+Emirates,Fall,2023-09-23,43,552.71
+Emirates,Fall,2024-08-23,49,566.99
+Emirates,Fall,2024-08-24,57,539.46
+Emirates,Fall,2024-08-25,49,544.95
+Emirates,Fall,2024-08-26,57,506.21
+Emirates,Fall,2024-08-27,60,540.32
+Emirates,Fall,2024-08-28,45,532.96
+Emirates,Fall,2024-08-29,53,586.71
+Emirates,Fall,2024-08-30,60,585.27
+Emirates,Fall,2024-08-31,59,491.18
+Emirates,Fall,2024-09-01,51,583.01
+Emirates,Fall,2024-09-02,42,552.22
+Emirates,Fall,2024-09-03,56,549.86
+Emirates,Fall,2024-09-04,35,590.33
+Emirates,Fall,2024-09-05,59,549.48
+Emirates,Fall,2024-09-06,54,568.65
+Emirates,Fall,2024-09-07,48,561.17
+Emirates,Fall,2024-09-08,47,575.25
+Emirates,Fall,2024-09-09,54,548.56
+Emirates,Fall,2024-09-10,45,542.96
+Emirates,Fall,2024-09-11,60,534.84
+Emirates,Fall,2024-09-12,55,561.94
+Emirates,Fall,2024-09-13,51,543.71
+Emirates,Fall,2024-09-14,56,556.37
+Emirates,Fall,2024-09-15,59,563.75
+Emirates,Fall,2024-09-16,59,543.17
+Emirates,Fall,2024-09-17,54,570.61
+Emirates,Fall,2024-09-18,59,571.52
+Emirates,Fall,2024-09-19,46,558.99
+Emirates,Fall,2024-09-20,55,551.27
+Emirates,Fall,2024-09-21,56,564.16
+Emirates,Fall,2024-09-22,51,553.05
+Emirates,Fall,2024-09-23,46,584.17
+Lufthansa,Summer,2015-05-15,57,530.6
+Lufthansa,Summer,2015-05-16,59,548.7
+Lufthansa,Summer,2015-05-17,57,519.95
+Lufthansa,Summer,2015-05-18,46,553.78
+Lufthansa,Summer,2015-05-19,50,574.26
+Lufthansa,Summer,2015-05-20,60,536.04
+Lufthansa,Summer,2015-05-21,59,555.55
+Lufthansa,Summer,2015-05-22,57,547.73
+Lufthansa,Summer,2015-05-23,55,558.53
+Lufthansa,Summer,2015-05-24,55,587.92
+Lufthansa,Summer,2015-05-25,57,530.39
+Lufthansa,Summer,2015-05-26,56,552.54
+Lufthansa,Summer,2015-05-27,55,568.57
+Lufthansa,Summer,2015-05-28,57,583.87
+Lufthansa,Summer,2015-05-29,56,549.9
+Lufthansa,Summer,2015-05-30,57,565.7
+Lufthansa,Summer,2015-05-31,56,565.84
+Lufthansa,Summer,2015-06-01,58,568.38
+Lufthansa,Summer,2015-06-02,45,562.46
+Lufthansa,Summer,2015-06-03,58,555.98
+Lufthansa,Summer,2015-06-04,60,542.64
+Lufthansa,Summer,2015-06-05,56,564.26
+Lufthansa,Summer,2015-06-06,60,506.33
+Lufthansa,Summer,2015-06-07,60,553.24
+Lufthansa,Summer,2015-06-08,51,545.31
+Lufthansa,Summer,2015-06-09,57,566.31
+Lufthansa,Summer,2015-06-10,49,534.32
+Lufthansa,Summer,2015-06-11,60,585.33
+Lufthansa,Summer,2015-06-12,59,551.23
+Lufthansa,Summer,2015-06-13,40,578.73
+Lufthansa,Summer,2015-06-14,34,563.1
+Lufthansa,Summer,2015-06-15,60,521.03
+Lufthansa,Summer,2016-05-15,59,569.36
+Lufthansa,Summer,2016-05-16,54,583.49
+Lufthansa,Summer,2016-05-17,53,547.73
+Lufthansa,Summer,2016-05-18,57,548.08
+Lufthansa,Summer,2016-05-19,58,567.79
+Lufthansa,Summer,2016-05-20,57,560.96
+Lufthansa,Summer,2016-05-21,45,561.74
+Lufthansa,Summer,2016-05-22,50,531.99
+Lufthansa,Summer,2016-05-23,49,523.56
+Lufthansa,Summer,2016-05-24,54,543.53
+Lufthansa,Summer,2016-05-25,44,547.2
+Lufthansa,Summer,2016-05-26,56,568.48
+Lufthansa,Summer,2016-05-27,46,546.17
+Lufthansa,Summer,2016-05-28,60,559.02
+Lufthansa,Summer,2016-05-29,38,559.4
+Lufthansa,Summer,2016-05-30,58,564.99
+Lufthansa,Summer,2016-05-31,53,560.03
+Lufthansa,Summer,2016-06-01,48,549.01
+Lufthansa,Summer,2016-06-02,47,548.71
+Lufthansa,Summer,2016-06-03,59,559.09
+Lufthansa,Summer,2016-06-04,58,580.73
+Lufthansa,Summer,2016-06-05,57,566.21
+Lufthansa,Summer,2016-06-06,45,548.52
+Lufthansa,Summer,2016-06-07,50,532.79
+Lufthansa,Summer,2016-06-08,53,564.99
+Lufthansa,Summer,2016-06-09,60,525.96
+Lufthansa,Summer,2016-06-10,59,532.8
+Lufthansa,Summer,2016-06-11,58,538.47
+Lufthansa,Summer,2016-06-12,58,579.86
+Lufthansa,Summer,2016-06-13,39,532.46
+Lufthansa,Summer,2016-06-14,47,565.89
+Lufthansa,Summer,2016-06-15,51,587.35
+Lufthansa,Summer,2017-05-15,51,518.36
+Lufthansa,Summer,2017-05-16,59,523.37
+Lufthansa,Summer,2017-05-17,53,578.58
+Lufthansa,Summer,2017-05-18,58,536.92
+Lufthansa,Summer,2017-05-19,50,582.9
+Lufthansa,Summer,2017-05-20,58,572.46
+Lufthansa,Summer,2017-05-21,59,534.16
+Lufthansa,Summer,2017-05-22,50,576.35
+Lufthansa,Summer,2017-05-23,58,545.45
+Lufthansa,Summer,2017-05-24,58,575.87
+Lufthansa,Summer,2017-05-25,43,570.44
+Lufthansa,Summer,2017-05-26,58,562.13
+Lufthansa,Summer,2017-05-27,52,552.64
+Lufthansa,Summer,2017-05-28,44,580.8
+Lufthansa,Summer,2017-05-29,45,565.73
+Lufthansa,Summer,2017-05-30,58,564.18
+Lufthansa,Summer,2017-05-31,60,558.33
+Lufthansa,Summer,2017-06-01,25,566.63
+Lufthansa,Summer,2017-06-02,50,513.47
+Lufthansa,Summer,2017-06-03,55,532.43
+Lufthansa,Summer,2017-06-04,44,550.27
+Lufthansa,Summer,2017-06-05,60,548.84
+Lufthansa,Summer,2017-06-06,56,514.31
+Lufthansa,Summer,2017-06-07,58,525.94
+Lufthansa,Summer,2017-06-08,57,572.6
+Lufthansa,Summer,2017-06-09,48,538.83
+Lufthansa,Summer,2017-06-10,60,549.33
+Lufthansa,Summer,2017-06-11,54,531.75
+Lufthansa,Summer,2017-06-12,59,570.73
+Lufthansa,Summer,2017-06-13,60,534.99
+Lufthansa,Summer,2017-06-14,51,569.6
+Lufthansa,Summer,2017-06-15,54,555.33
+Lufthansa,Summer,2018-05-15,48,556.14
+Lufthansa,Summer,2018-05-16,60,565.06
+Lufthansa,Summer,2018-05-17,44,558.23
+Lufthansa,Summer,2018-05-18,58,534.07
+Lufthansa,Summer,2018-05-19,42,548.96
+Lufthansa,Summer,2018-05-20,59,561.26
+Lufthansa,Summer,2018-05-21,59,568.32
+Lufthansa,Summer,2018-05-22,54,554.97
+Lufthansa,Summer,2018-05-23,57,542.81
+Lufthansa,Summer,2018-05-24,57,538.36
+Lufthansa,Summer,2018-05-25,56,575.48
+Lufthansa,Summer,2018-05-26,48,549.23
+Lufthansa,Summer,2018-05-27,58,569.26
+Lufthansa,Summer,2018-05-28,59,510.13
+Lufthansa,Summer,2018-05-29,46,521.84
+Lufthansa,Summer,2018-05-30,60,524.83
+Lufthansa,Summer,2018-05-31,48,577.27
+Lufthansa,Summer,2018-06-01,51,556.47
+Lufthansa,Summer,2018-06-02,53,529.54
+Lufthansa,Summer,2018-06-03,52,556.22
+Lufthansa,Summer,2018-06-04,49,575.57
+Lufthansa,Summer,2018-06-05,54,566.0
+Lufthansa,Summer,2018-06-06,50,576.09
+Lufthansa,Summer,2018-06-07,51,561.58
+Lufthansa,Summer,2018-06-08,60,558.5
+Lufthansa,Summer,2018-06-09,40,558.75
+Lufthansa,Summer,2018-06-10,54,538.13
+Lufthansa,Summer,2018-06-11,56,550.65
+Lufthansa,Summer,2018-06-12,58,504.96
+Lufthansa,Summer,2018-06-13,60,552.73
+Lufthansa,Summer,2018-06-14,55,559.65
+Lufthansa,Summer,2018-06-15,44,595.44
+Lufthansa,Summer,2019-05-15,58,531.15
+Lufthansa,Summer,2019-05-16,52,553.5
+Lufthansa,Summer,2019-05-17,55,557.8
+Lufthansa,Summer,2019-05-18,55,523.58
+Lufthansa,Summer,2019-05-19,60,549.56
+Lufthansa,Summer,2019-05-20,60,530.47
+Lufthansa,Summer,2019-05-21,56,541.19
+Lufthansa,Summer,2019-05-22,51,579.62
+Lufthansa,Summer,2019-05-23,57,565.06
+Lufthansa,Summer,2019-05-24,56,560.43
+Lufthansa,Summer,2019-05-25,59,547.16
+Lufthansa,Summer,2019-05-26,56,550.69
+Lufthansa,Summer,2019-05-27,53,525.35
+Lufthansa,Summer,2019-05-28,60,565.82
+Lufthansa,Summer,2019-05-29,52,560.25
+Lufthansa,Summer,2019-05-30,59,507.47
+Lufthansa,Summer,2019-05-31,60,559.09
+Lufthansa,Summer,2019-06-01,60,556.66
+Lufthansa,Summer,2019-06-02,57,544.48
+Lufthansa,Summer,2019-06-03,58,550.3
+Lufthansa,Summer,2019-06-04,59,525.28
+Lufthansa,Summer,2019-06-05,57,560.71
+Lufthansa,Summer,2019-06-06,60,545.86
+Lufthansa,Summer,2019-06-07,43,562.23
+Lufthansa,Summer,2019-06-08,56,564.05
+Lufthansa,Summer,2019-06-09,60,569.58
+Lufthansa,Summer,2019-06-10,58,522.26
+Lufthansa,Summer,2019-06-11,46,547.52
+Lufthansa,Summer,2019-06-12,31,573.85
+Lufthansa,Summer,2019-06-13,55,570.28
+Lufthansa,Summer,2019-06-14,46,586.54
+Lufthansa,Summer,2019-06-15,59,562.12
+Lufthansa,Summer,2020-05-15,58,563.79
+Lufthansa,Summer,2020-05-16,59,568.26
+Lufthansa,Summer,2020-05-17,53,546.25
+Lufthansa,Summer,2020-05-18,60,579.13
+Lufthansa,Summer,2020-05-19,44,577.52
+Lufthansa,Summer,2020-05-20,60,531.93
+Lufthansa,Summer,2020-05-21,45,503.25
+Lufthansa,Summer,2020-05-22,51,570.06
+Lufthansa,Summer,2020-05-23,54,560.0
+Lufthansa,Summer,2020-05-24,39,553.76
+Lufthansa,Summer,2020-05-25,51,539.6
+Lufthansa,Summer,2020-05-26,34,572.77
+Lufthansa,Summer,2020-05-27,58,556.7
+Lufthansa,Summer,2020-05-28,47,540.16
+Lufthansa,Summer,2020-05-29,46,536.06
+Lufthansa,Summer,2020-05-30,57,549.66
+Lufthansa,Summer,2020-05-31,53,576.04
+Lufthansa,Summer,2020-06-01,57,560.52
+Lufthansa,Summer,2020-06-02,52,563.79
+Lufthansa,Summer,2020-06-03,56,573.52
+Lufthansa,Summer,2020-06-04,58,562.47
+Lufthansa,Summer,2020-06-05,58,567.18
+Lufthansa,Summer,2020-06-06,57,518.2
+Lufthansa,Summer,2020-06-07,51,571.3
+Lufthansa,Summer,2020-06-08,53,566.02
+Lufthansa,Summer,2020-06-09,54,542.89
+Lufthansa,Summer,2020-06-10,60,566.52
+Lufthansa,Summer,2020-06-11,60,564.46
+Lufthansa,Summer,2020-06-12,58,556.59
+Lufthansa,Summer,2020-06-13,38,575.07
+Lufthansa,Summer,2020-06-14,58,543.86
+Lufthansa,Summer,2020-06-15,55,564.11
+Lufthansa,Summer,2021-05-15,54,555.67
+Lufthansa,Summer,2021-05-16,55,553.42
+Lufthansa,Summer,2021-05-17,54,524.21
+Lufthansa,Summer,2021-05-18,57,547.47
+Lufthansa,Summer,2021-05-19,45,540.27
+Lufthansa,Summer,2021-05-20,56,562.03
+Lufthansa,Summer,2021-05-21,59,543.71
+Lufthansa,Summer,2021-05-22,32,560.44
+Lufthansa,Summer,2021-05-23,55,563.17
+Lufthansa,Summer,2021-05-24,56,571.07
+Lufthansa,Summer,2021-05-25,47,573.68
+Lufthansa,Summer,2021-05-26,41,543.0
+Lufthansa,Summer,2021-05-27,49,532.2
+Lufthansa,Summer,2021-05-28,58,521.93
+Lufthansa,Summer,2021-05-29,33,540.28
+Lufthansa,Summer,2021-05-30,60,547.75
+Lufthansa,Summer,2021-05-31,59,524.79
+Lufthansa,Summer,2021-06-01,24,555.36
+Lufthansa,Summer,2021-06-02,56,533.01
+Lufthansa,Summer,2021-06-03,47,556.14
+Lufthansa,Summer,2021-06-04,56,500.36
+Lufthansa,Summer,2021-06-05,58,581.95
+Lufthansa,Summer,2021-06-06,48,537.52
+Lufthansa,Summer,2021-06-07,48,567.88
+Lufthansa,Summer,2021-06-08,56,555.42
+Lufthansa,Summer,2021-06-09,56,508.19
+Lufthansa,Summer,2021-06-10,57,504.78
+Lufthansa,Summer,2021-06-11,38,572.95
+Lufthansa,Summer,2021-06-12,54,548.76
+Lufthansa,Summer,2021-06-13,56,546.88
+Lufthansa,Summer,2021-06-14,50,565.65
+Lufthansa,Summer,2021-06-15,60,535.89
+Lufthansa,Summer,2022-05-15,54,559.24
+Lufthansa,Summer,2022-05-16,46,557.83
+Lufthansa,Summer,2022-05-17,60,547.2
+Lufthansa,Summer,2022-05-18,57,576.82
+Lufthansa,Summer,2022-05-19,51,539.33
+Lufthansa,Summer,2022-05-20,60,545.69
+Lufthansa,Summer,2022-05-21,59,561.74
+Lufthansa,Summer,2022-05-22,60,552.06
+Lufthansa,Summer,2022-05-23,43,543.09
+Lufthansa,Summer,2022-05-24,56,544.93
+Lufthansa,Summer,2022-05-25,60,549.49
+Lufthansa,Summer,2022-05-26,58,537.84
+Lufthansa,Summer,2022-05-27,56,527.14
+Lufthansa,Summer,2022-05-28,52,553.94
+Lufthansa,Summer,2022-05-29,60,538.46
+Lufthansa,Summer,2022-05-30,21,553.06
+Lufthansa,Summer,2022-05-31,56,552.67
+Lufthansa,Summer,2022-06-01,45,556.41
+Lufthansa,Summer,2022-06-02,55,538.93
+Lufthansa,Summer,2022-06-03,50,538.33
+Lufthansa,Summer,2022-06-04,54,583.91
+Lufthansa,Summer,2022-06-05,51,503.96
+Lufthansa,Summer,2022-06-06,43,566.35
+Lufthansa,Summer,2022-06-07,48,568.55
+Lufthansa,Summer,2022-06-08,35,544.97
+Lufthansa,Summer,2022-06-09,54,554.97
+Lufthansa,Summer,2022-06-10,60,494.54
+Lufthansa,Summer,2022-06-11,43,538.55
+Lufthansa,Summer,2022-06-12,57,574.85
+Lufthansa,Summer,2022-06-13,59,564.65
+Lufthansa,Summer,2022-06-14,55,539.52
+Lufthansa,Summer,2022-06-15,59,515.94
+Lufthansa,Summer,2023-05-15,57,556.93
+Lufthansa,Summer,2023-05-16,59,531.57
+Lufthansa,Summer,2023-05-17,52,540.85
+Lufthansa,Summer,2023-05-18,42,579.88
+Lufthansa,Summer,2023-05-19,60,565.15
+Lufthansa,Summer,2023-05-20,57,567.04
+Lufthansa,Summer,2023-05-21,48,557.0
+Lufthansa,Summer,2023-05-22,54,537.6
+Lufthansa,Summer,2023-05-23,56,552.39
+Lufthansa,Summer,2023-05-24,55,541.44
+Lufthansa,Summer,2023-05-25,46,568.02
+Lufthansa,Summer,2023-05-26,58,541.79
+Lufthansa,Summer,2023-05-27,50,568.83
+Lufthansa,Summer,2023-05-28,59,538.94
+Lufthansa,Summer,2023-05-29,52,520.88
+Lufthansa,Summer,2023-05-30,33,575.55
+Lufthansa,Summer,2023-05-31,55,572.66
+Lufthansa,Summer,2023-06-01,53,545.44
+Lufthansa,Summer,2023-06-02,56,544.96
+Lufthansa,Summer,2023-06-03,54,519.08
+Lufthansa,Summer,2023-06-04,54,533.0
+Lufthansa,Summer,2023-06-05,56,550.16
+Lufthansa,Summer,2023-06-06,60,556.88
+Lufthansa,Summer,2023-06-07,59,575.76
+Lufthansa,Summer,2023-06-08,58,576.24
+Lufthansa,Summer,2023-06-09,60,544.77
+Lufthansa,Summer,2023-06-10,56,543.93
+Lufthansa,Summer,2023-06-11,55,565.09
+Lufthansa,Summer,2023-06-12,60,553.41
+Lufthansa,Summer,2023-06-13,60,551.75
+Lufthansa,Summer,2023-06-14,59,570.9
+Lufthansa,Summer,2023-06-15,59,543.94
+Lufthansa,Summer,2024-05-15,60,544.67
+Lufthansa,Summer,2024-05-16,59,542.48
+Lufthansa,Summer,2024-05-17,48,561.03
+Lufthansa,Summer,2024-05-18,60,501.06
+Lufthansa,Summer,2024-05-19,39,564.26
+Lufthansa,Summer,2024-05-20,60,515.57
+Lufthansa,Summer,2024-05-21,57,526.92
+Lufthansa,Summer,2024-05-22,58,550.5
+Lufthansa,Summer,2024-05-23,58,534.13
+Lufthansa,Summer,2024-05-24,60,548.17
+Lufthansa,Summer,2024-05-25,60,552.07
+Lufthansa,Summer,2024-05-26,57,543.99
+Lufthansa,Summer,2024-05-27,60,529.05
+Lufthansa,Summer,2024-05-28,52,526.25
+Lufthansa,Summer,2024-05-29,53,542.23
+Lufthansa,Summer,2024-05-30,56,513.18
+Lufthansa,Summer,2024-05-31,48,529.91
+Lufthansa,Summer,2024-06-01,36,553.72
+Lufthansa,Summer,2024-06-02,59,554.53
+Lufthansa,Summer,2024-06-03,43,534.56
+Lufthansa,Summer,2024-06-04,58,554.65
+Lufthansa,Summer,2024-06-05,41,557.03
+Lufthansa,Summer,2024-06-06,54,521.69
+Lufthansa,Summer,2024-06-07,55,513.36
+Lufthansa,Summer,2024-06-08,54,570.49
+Lufthansa,Summer,2024-06-09,55,556.98
+Lufthansa,Summer,2024-06-10,40,560.7
+Lufthansa,Summer,2024-06-11,59,558.51
+Lufthansa,Summer,2024-06-12,57,540.0
+Lufthansa,Summer,2024-06-13,60,548.19
+Lufthansa,Summer,2024-06-14,60,555.27
+Lufthansa,Summer,2024-06-15,52,553.45
+Lufthansa,Fall,2015-08-23,59,554.97
+Lufthansa,Fall,2015-08-24,58,560.71
+Lufthansa,Fall,2015-08-25,49,558.46
+Lufthansa,Fall,2015-08-26,49,524.26
+Lufthansa,Fall,2015-08-27,45,552.41
+Lufthansa,Fall,2015-08-28,52,509.29
+Lufthansa,Fall,2015-08-29,47,549.36
+Lufthansa,Fall,2015-08-30,51,537.52
+Lufthansa,Fall,2015-08-31,45,565.13
+Lufthansa,Fall,2015-09-01,47,510.25
+Lufthansa,Fall,2015-09-02,60,528.76
+Lufthansa,Fall,2015-09-03,59,529.68
+Lufthansa,Fall,2015-09-04,46,535.26
+Lufthansa,Fall,2015-09-05,54,565.71
+Lufthansa,Fall,2015-09-06,52,574.6
+Lufthansa,Fall,2015-09-07,48,570.25
+Lufthansa,Fall,2015-09-08,59,535.68
+Lufthansa,Fall,2015-09-09,56,569.45
+Lufthansa,Fall,2015-09-10,48,579.58
+Lufthansa,Fall,2015-09-11,55,551.2
+Lufthansa,Fall,2015-09-12,59,531.61
+Lufthansa,Fall,2015-09-13,56,526.13
+Lufthansa,Fall,2015-09-14,55,543.77
+Lufthansa,Fall,2015-09-15,55,574.6
+Lufthansa,Fall,2015-09-16,60,561.87
+Lufthansa,Fall,2015-09-17,53,564.58
+Lufthansa,Fall,2015-09-18,59,545.78
+Lufthansa,Fall,2015-09-19,48,551.56
+Lufthansa,Fall,2015-09-20,54,505.25
+Lufthansa,Fall,2015-09-21,59,531.01
+Lufthansa,Fall,2015-09-22,60,500.67
+Lufthansa,Fall,2015-09-23,53,578.14
+Lufthansa,Fall,2016-08-23,48,557.25
+Lufthansa,Fall,2016-08-24,59,546.36
+Lufthansa,Fall,2016-08-25,59,535.81
+Lufthansa,Fall,2016-08-26,55,557.73
+Lufthansa,Fall,2016-08-27,59,571.54
+Lufthansa,Fall,2016-08-28,50,552.06
+Lufthansa,Fall,2016-08-29,58,522.84
+Lufthansa,Fall,2016-08-30,44,525.14
+Lufthansa,Fall,2016-08-31,51,557.8
+Lufthansa,Fall,2016-09-01,58,545.4
+Lufthansa,Fall,2016-09-02,55,517.55
+Lufthansa,Fall,2016-09-03,52,541.84
+Lufthansa,Fall,2016-09-04,52,523.71
+Lufthansa,Fall,2016-09-05,59,567.33
+Lufthansa,Fall,2016-09-06,52,565.02
+Lufthansa,Fall,2016-09-07,56,534.86
+Lufthansa,Fall,2016-09-08,59,550.95
+Lufthansa,Fall,2016-09-09,54,577.1
+Lufthansa,Fall,2016-09-10,53,559.7
+Lufthansa,Fall,2016-09-11,60,539.58
+Lufthansa,Fall,2016-09-12,59,554.16
+Lufthansa,Fall,2016-09-13,55,566.0
+Lufthansa,Fall,2016-09-14,57,559.96
+Lufthansa,Fall,2016-09-15,56,545.09
+Lufthansa,Fall,2016-09-16,57,577.8
+Lufthansa,Fall,2016-09-17,58,527.69
+Lufthansa,Fall,2016-09-18,57,533.52
+Lufthansa,Fall,2016-09-19,53,543.9
+Lufthansa,Fall,2016-09-20,59,543.38
+Lufthansa,Fall,2016-09-21,58,520.64
+Lufthansa,Fall,2016-09-22,57,513.49
+Lufthansa,Fall,2016-09-23,51,526.72
+Lufthansa,Fall,2017-08-23,57,546.64
+Lufthansa,Fall,2017-08-24,54,547.68
+Lufthansa,Fall,2017-08-25,52,563.7
+Lufthansa,Fall,2017-08-26,57,552.54
+Lufthansa,Fall,2017-08-27,55,571.03
+Lufthansa,Fall,2017-08-28,48,532.04
+Lufthansa,Fall,2017-08-29,45,547.65
+Lufthansa,Fall,2017-08-30,37,565.26
+Lufthansa,Fall,2017-08-31,43,550.32
+Lufthansa,Fall,2017-09-01,30,571.97
+Lufthansa,Fall,2017-09-02,57,553.94
+Lufthansa,Fall,2017-09-03,58,568.1
+Lufthansa,Fall,2017-09-04,60,554.69
+Lufthansa,Fall,2017-09-05,44,574.32
+Lufthansa,Fall,2017-09-06,37,510.35
+Lufthansa,Fall,2017-09-07,47,564.59
+Lufthansa,Fall,2017-09-08,58,569.09
+Lufthansa,Fall,2017-09-09,55,582.56
+Lufthansa,Fall,2017-09-10,56,568.58
+Lufthansa,Fall,2017-09-11,60,494.93
+Lufthansa,Fall,2017-09-12,56,528.37
+Lufthansa,Fall,2017-09-13,55,541.38
+Lufthansa,Fall,2017-09-14,59,534.93
+Lufthansa,Fall,2017-09-15,48,566.53
+Lufthansa,Fall,2017-09-16,60,559.47
+Lufthansa,Fall,2017-09-17,57,545.03
+Lufthansa,Fall,2017-09-18,52,514.63
+Lufthansa,Fall,2017-09-19,51,565.68
+Lufthansa,Fall,2017-09-20,58,586.14
+Lufthansa,Fall,2017-09-21,57,514.7
+Lufthansa,Fall,2017-09-22,54,563.98
+Lufthansa,Fall,2017-09-23,54,545.37
+Lufthansa,Fall,2018-08-23,49,566.71
+Lufthansa,Fall,2018-08-24,55,558.46
+Lufthansa,Fall,2018-08-25,60,539.28
+Lufthansa,Fall,2018-08-26,59,510.3
+Lufthansa,Fall,2018-08-27,58,558.44
+Lufthansa,Fall,2018-08-28,58,534.0
+Lufthansa,Fall,2018-08-29,51,555.79
+Lufthansa,Fall,2018-08-30,58,540.09
+Lufthansa,Fall,2018-08-31,58,532.29
+Lufthansa,Fall,2018-09-01,57,508.54
+Lufthansa,Fall,2018-09-02,41,550.74
+Lufthansa,Fall,2018-09-03,52,573.92
+Lufthansa,Fall,2018-09-04,50,573.83
+Lufthansa,Fall,2018-09-05,48,573.35
+Lufthansa,Fall,2018-09-06,42,554.6
+Lufthansa,Fall,2018-09-07,58,560.23
+Lufthansa,Fall,2018-09-08,57,555.93
+Lufthansa,Fall,2018-09-09,57,560.51
+Lufthansa,Fall,2018-09-10,49,530.55
+Lufthansa,Fall,2018-09-11,59,551.69
+Lufthansa,Fall,2018-09-12,53,568.09
+Lufthansa,Fall,2018-09-13,58,559.34
+Lufthansa,Fall,2018-09-14,52,566.23
+Lufthansa,Fall,2018-09-15,56,484.74
+Lufthansa,Fall,2018-09-16,53,579.18
+Lufthansa,Fall,2018-09-17,52,527.47
+Lufthansa,Fall,2018-09-18,41,551.67
+Lufthansa,Fall,2018-09-19,52,557.35
+Lufthansa,Fall,2018-09-20,58,536.32
+Lufthansa,Fall,2018-09-21,60,518.35
+Lufthansa,Fall,2018-09-22,58,550.09
+Lufthansa,Fall,2018-09-23,58,525.14
+Lufthansa,Fall,2019-08-23,55,555.66
+Lufthansa,Fall,2019-08-24,53,572.99
+Lufthansa,Fall,2019-08-25,57,541.11
+Lufthansa,Fall,2019-08-26,45,585.94
+Lufthansa,Fall,2019-08-27,56,568.11
+Lufthansa,Fall,2019-08-28,60,528.47
+Lufthansa,Fall,2019-08-29,52,588.69
+Lufthansa,Fall,2019-08-30,26,583.28
+Lufthansa,Fall,2019-08-31,55,529.89
+Lufthansa,Fall,2019-09-01,39,547.57
+Lufthansa,Fall,2019-09-02,56,551.62
+Lufthansa,Fall,2019-09-03,58,529.23
+Lufthansa,Fall,2019-09-04,49,575.73
+Lufthansa,Fall,2019-09-05,60,560.36
+Lufthansa,Fall,2019-09-06,45,563.02
+Lufthansa,Fall,2019-09-07,56,555.88
+Lufthansa,Fall,2019-09-08,56,544.11
+Lufthansa,Fall,2019-09-09,59,577.86
+Lufthansa,Fall,2019-09-10,37,575.71
+Lufthansa,Fall,2019-09-11,60,549.51
+Lufthansa,Fall,2019-09-12,47,563.32
+Lufthansa,Fall,2019-09-13,41,557.95
+Lufthansa,Fall,2019-09-14,59,553.81
+Lufthansa,Fall,2019-09-15,53,545.37
+Lufthansa,Fall,2019-09-16,58,573.46
+Lufthansa,Fall,2019-09-17,57,560.12
+Lufthansa,Fall,2019-09-18,60,552.37
+Lufthansa,Fall,2019-09-19,47,569.53
+Lufthansa,Fall,2019-09-20,59,565.53
+Lufthansa,Fall,2019-09-21,57,534.56
+Lufthansa,Fall,2019-09-22,55,572.4
+Lufthansa,Fall,2019-09-23,58,545.77
+Lufthansa,Fall,2020-08-23,59,596.89
+Lufthansa,Fall,2020-08-24,59,545.05
+Lufthansa,Fall,2020-08-25,50,549.05
+Lufthansa,Fall,2020-08-26,56,550.8
+Lufthansa,Fall,2020-08-27,60,540.86
+Lufthansa,Fall,2020-08-28,59,521.92
+Lufthansa,Fall,2020-08-29,60,528.81
+Lufthansa,Fall,2020-08-30,59,565.51
+Lufthansa,Fall,2020-08-31,59,525.56
+Lufthansa,Fall,2020-09-01,57,564.61
+Lufthansa,Fall,2020-09-02,60,561.48
+Lufthansa,Fall,2020-09-03,59,522.26
+Lufthansa,Fall,2020-09-04,60,548.34
+Lufthansa,Fall,2020-09-05,45,558.09
+Lufthansa,Fall,2020-09-06,51,521.68
+Lufthansa,Fall,2020-09-07,48,559.02
+Lufthansa,Fall,2020-09-08,52,556.39
+Lufthansa,Fall,2020-09-09,58,561.7
+Lufthansa,Fall,2020-09-10,55,530.89
+Lufthansa,Fall,2020-09-11,55,566.38
+Lufthansa,Fall,2020-09-12,52,528.92
+Lufthansa,Fall,2020-09-13,53,541.1
+Lufthansa,Fall,2020-09-14,49,528.57
+Lufthansa,Fall,2020-09-15,57,577.16
+Lufthansa,Fall,2020-09-16,32,571.79
+Lufthansa,Fall,2020-09-17,53,540.51
+Lufthansa,Fall,2020-09-18,58,538.65
+Lufthansa,Fall,2020-09-19,52,527.69
+Lufthansa,Fall,2020-09-20,43,566.73
+Lufthansa,Fall,2020-09-21,60,553.29
+Lufthansa,Fall,2020-09-22,58,567.67
+Lufthansa,Fall,2020-09-23,54,568.36
+Lufthansa,Fall,2021-08-23,34,563.59
+Lufthansa,Fall,2021-08-24,55,514.34
+Lufthansa,Fall,2021-08-25,47,534.59
+Lufthansa,Fall,2021-08-26,48,548.18
+Lufthansa,Fall,2021-08-27,60,520.92
+Lufthansa,Fall,2021-08-28,59,566.66
+Lufthansa,Fall,2021-08-29,58,537.4
+Lufthansa,Fall,2021-08-30,47,577.59
+Lufthansa,Fall,2021-08-31,55,537.08
+Lufthansa,Fall,2021-09-01,59,573.24
+Lufthansa,Fall,2021-09-02,53,551.05
+Lufthansa,Fall,2021-09-03,59,546.63
+Lufthansa,Fall,2021-09-04,46,581.77
+Lufthansa,Fall,2021-09-05,54,562.52
+Lufthansa,Fall,2021-09-06,59,530.66
+Lufthansa,Fall,2021-09-07,49,513.12
+Lufthansa,Fall,2021-09-08,57,493.11
+Lufthansa,Fall,2021-09-09,54,555.38
+Lufthansa,Fall,2021-09-10,56,547.59
+Lufthansa,Fall,2021-09-11,53,525.46
+Lufthansa,Fall,2021-09-12,59,532.9
+Lufthansa,Fall,2021-09-13,59,578.66
+Lufthansa,Fall,2021-09-14,43,579.61
+Lufthansa,Fall,2021-09-15,57,527.87
+Lufthansa,Fall,2021-09-16,56,562.88
+Lufthansa,Fall,2021-09-17,56,564.46
+Lufthansa,Fall,2021-09-18,60,573.86
+Lufthansa,Fall,2021-09-19,56,493.36
+Lufthansa,Fall,2021-09-20,58,561.13
+Lufthansa,Fall,2021-09-21,59,541.43
+Lufthansa,Fall,2021-09-22,55,541.41
+Lufthansa,Fall,2021-09-23,51,532.45
+Lufthansa,Fall,2022-08-23,59,521.16
+Lufthansa,Fall,2022-08-24,54,534.6
+Lufthansa,Fall,2022-08-25,59,545.03
+Lufthansa,Fall,2022-08-26,51,533.25
+Lufthansa,Fall,2022-08-27,57,563.05
+Lufthansa,Fall,2022-08-28,58,569.14
+Lufthansa,Fall,2022-08-29,56,539.75
+Lufthansa,Fall,2022-08-30,59,524.89
+Lufthansa,Fall,2022-08-31,53,570.95
+Lufthansa,Fall,2022-09-01,58,533.64
+Lufthansa,Fall,2022-09-02,60,531.07
+Lufthansa,Fall,2022-09-03,58,567.92
+Lufthansa,Fall,2022-09-04,57,549.36
+Lufthansa,Fall,2022-09-05,52,559.24
+Lufthansa,Fall,2022-09-06,60,538.42
+Lufthansa,Fall,2022-09-07,60,561.34
+Lufthansa,Fall,2022-09-08,58,560.67
+Lufthansa,Fall,2022-09-09,53,537.84
+Lufthansa,Fall,2022-09-10,60,562.77
+Lufthansa,Fall,2022-09-11,60,540.22
+Lufthansa,Fall,2022-09-12,48,523.79
+Lufthansa,Fall,2022-09-13,58,577.29
+Lufthansa,Fall,2022-09-14,57,509.96
+Lufthansa,Fall,2022-09-15,59,528.46
+Lufthansa,Fall,2022-09-16,57,535.41
+Lufthansa,Fall,2022-09-17,53,536.86
+Lufthansa,Fall,2022-09-18,55,592.44
+Lufthansa,Fall,2022-09-19,50,577.64
+Lufthansa,Fall,2022-09-20,58,546.39
+Lufthansa,Fall,2022-09-21,41,548.23
+Lufthansa,Fall,2022-09-22,57,577.96
+Lufthansa,Fall,2022-09-23,55,572.97
+Lufthansa,Fall,2023-08-23,60,510.95
+Lufthansa,Fall,2023-08-24,59,542.99
+Lufthansa,Fall,2023-08-25,50,559.94
+Lufthansa,Fall,2023-08-26,42,564.42
+Lufthansa,Fall,2023-08-27,58,554.27
+Lufthansa,Fall,2023-08-28,49,577.46
+Lufthansa,Fall,2023-08-29,54,561.42
+Lufthansa,Fall,2023-08-30,59,509.44
+Lufthansa,Fall,2023-08-31,53,553.1
+Lufthansa,Fall,2023-09-01,49,550.37
+Lufthansa,Fall,2023-09-02,53,546.96
+Lufthansa,Fall,2023-09-03,59,542.88
+Lufthansa,Fall,2023-09-04,55,508.76
+Lufthansa,Fall,2023-09-05,57,549.79
+Lufthansa,Fall,2023-09-06,60,533.13
+Lufthansa,Fall,2023-09-07,55,565.39
+Lufthansa,Fall,2023-09-08,58,552.67
+Lufthansa,Fall,2023-09-09,59,560.55
+Lufthansa,Fall,2023-09-10,58,556.84
+Lufthansa,Fall,2023-09-11,58,543.9
+Lufthansa,Fall,2023-09-12,59,535.2
+Lufthansa,Fall,2023-09-13,48,595.7
+Lufthansa,Fall,2023-09-14,56,531.86
+Lufthansa,Fall,2023-09-15,54,530.69
+Lufthansa,Fall,2023-09-16,54,553.3
+Lufthansa,Fall,2023-09-17,49,567.84
+Lufthansa,Fall,2023-09-18,58,555.52
+Lufthansa,Fall,2023-09-19,52,565.14
+Lufthansa,Fall,2023-09-20,54,570.5
+Lufthansa,Fall,2023-09-21,59,528.27
+Lufthansa,Fall,2023-09-22,42,524.9
+Lufthansa,Fall,2023-09-23,56,556.44
+Lufthansa,Fall,2024-08-23,52,567.14
+Lufthansa,Fall,2024-08-24,57,562.24
+Lufthansa,Fall,2024-08-25,29,531.84
+Lufthansa,Fall,2024-08-26,59,533.6
+Lufthansa,Fall,2024-08-27,52,533.0
+Lufthansa,Fall,2024-08-28,42,561.98
+Lufthansa,Fall,2024-08-29,55,513.96
+Lufthansa,Fall,2024-08-30,56,560.61
+Lufthansa,Fall,2024-08-31,47,567.81
+Lufthansa,Fall,2024-09-01,56,548.1
+Lufthansa,Fall,2024-09-02,51,513.08
+Lufthansa,Fall,2024-09-03,50,535.7
+Lufthansa,Fall,2024-09-04,57,545.02
+Lufthansa,Fall,2024-09-05,46,535.38
+Lufthansa,Fall,2024-09-06,56,477.34
+Lufthansa,Fall,2024-09-07,59,512.08
+Lufthansa,Fall,2024-09-08,55,562.96
+Lufthansa,Fall,2024-09-09,43,556.05
+Lufthansa,Fall,2024-09-10,59,564.37
+Lufthansa,Fall,2024-09-11,57,547.97
+Lufthansa,Fall,2024-09-12,58,546.85
+Lufthansa,Fall,2024-09-13,52,575.0
+Lufthansa,Fall,2024-09-14,44,567.65
+Lufthansa,Fall,2024-09-15,43,566.53
+Lufthansa,Fall,2024-09-16,48,578.55
+Lufthansa,Fall,2024-09-17,47,559.37
+Lufthansa,Fall,2024-09-18,59,545.57
+Lufthansa,Fall,2024-09-19,57,495.44
+Lufthansa,Fall,2024-09-20,58,564.97
+Lufthansa,Fall,2024-09-21,53,543.88
+Lufthansa,Fall,2024-09-22,60,539.43
+Lufthansa,Fall,2024-09-23,59,593.35
+Delta,Summer,2015-05-15,51,528.48
+Delta,Summer,2015-05-16,52,563.3
+Delta,Summer,2015-05-17,45,571.03
+Delta,Summer,2015-05-18,60,542.61
+Delta,Summer,2015-05-19,58,552.26
+Delta,Summer,2015-05-20,57,545.41
+Delta,Summer,2015-05-21,47,568.05
+Delta,Summer,2015-05-22,57,547.88
+Delta,Summer,2015-05-23,57,553.66
+Delta,Summer,2015-05-24,52,586.19
+Delta,Summer,2015-05-25,58,533.07
+Delta,Summer,2015-05-26,59,539.16
+Delta,Summer,2015-05-27,56,559.55
+Delta,Summer,2015-05-28,54,546.16
+Delta,Summer,2015-05-29,58,544.93
+Delta,Summer,2015-05-30,56,524.88
+Delta,Summer,2015-05-31,56,568.32
+Delta,Summer,2015-06-01,58,551.45
+Delta,Summer,2015-06-02,49,568.3
+Delta,Summer,2015-06-03,56,560.3
+Delta,Summer,2015-06-04,45,522.51
+Delta,Summer,2015-06-05,53,555.91
+Delta,Summer,2015-06-06,50,564.17
+Delta,Summer,2015-06-07,48,563.04
+Delta,Summer,2015-06-08,43,566.92
+Delta,Summer,2015-06-09,54,547.33
+Delta,Summer,2015-06-10,58,549.7
+Delta,Summer,2015-06-11,49,566.55
+Delta,Summer,2015-06-12,54,545.92
+Delta,Summer,2015-06-13,24,537.01
+Delta,Summer,2015-06-14,44,563.36
+Delta,Summer,2015-06-15,59,562.17
+Delta,Summer,2016-05-15,59,520.14
+Delta,Summer,2016-05-16,49,578.69
+Delta,Summer,2016-05-17,57,563.88
+Delta,Summer,2016-05-18,60,556.67
+Delta,Summer,2016-05-19,45,555.82
+Delta,Summer,2016-05-20,60,551.85
+Delta,Summer,2016-05-21,52,563.54
+Delta,Summer,2016-05-22,55,568.45
+Delta,Summer,2016-05-23,60,550.96
+Delta,Summer,2016-05-24,49,543.03
+Delta,Summer,2016-05-25,53,542.76
+Delta,Summer,2016-05-26,49,502.26
+Delta,Summer,2016-05-27,58,549.88
+Delta,Summer,2016-05-28,57,522.79
+Delta,Summer,2016-05-29,44,589.8
+Delta,Summer,2016-05-30,51,523.12
+Delta,Summer,2016-05-31,57,543.94
+Delta,Summer,2016-06-01,29,563.82
+Delta,Summer,2016-06-02,58,556.26
+Delta,Summer,2016-06-03,52,536.53
+Delta,Summer,2016-06-04,51,560.61
+Delta,Summer,2016-06-05,52,577.9
+Delta,Summer,2016-06-06,36,563.14
+Delta,Summer,2016-06-07,51,537.17
+Delta,Summer,2016-06-08,54,583.17
+Delta,Summer,2016-06-09,59,561.76
+Delta,Summer,2016-06-10,60,560.58
+Delta,Summer,2016-06-11,59,548.61
+Delta,Summer,2016-06-12,60,579.82
+Delta,Summer,2016-06-13,57,533.0
+Delta,Summer,2016-06-14,60,543.07
+Delta,Summer,2016-06-15,58,505.61
+Delta,Summer,2017-05-15,52,557.48
+Delta,Summer,2017-05-16,57,566.99
+Delta,Summer,2017-05-17,59,564.89
+Delta,Summer,2017-05-18,46,539.82
+Delta,Summer,2017-05-19,60,546.59
+Delta,Summer,2017-05-20,57,543.19
+Delta,Summer,2017-05-21,60,536.13
+Delta,Summer,2017-05-22,57,505.49
+Delta,Summer,2017-05-23,58,448.97
+Delta,Summer,2017-05-24,52,522.99
+Delta,Summer,2017-05-25,46,582.84
+Delta,Summer,2017-05-26,51,554.39
+Delta,Summer,2017-05-27,59,545.47
+Delta,Summer,2017-05-28,56,531.35
+Delta,Summer,2017-05-29,60,583.51
+Delta,Summer,2017-05-30,59,559.18
+Delta,Summer,2017-05-31,42,515.65
+Delta,Summer,2017-06-01,58,567.75
+Delta,Summer,2017-06-02,55,539.36
+Delta,Summer,2017-06-03,50,552.79
+Delta,Summer,2017-06-04,60,541.5
+Delta,Summer,2017-06-05,51,543.64
+Delta,Summer,2017-06-06,57,538.7
+Delta,Summer,2017-06-07,54,562.51
+Delta,Summer,2017-06-08,56,529.54
+Delta,Summer,2017-06-09,56,543.59
+Delta,Summer,2017-06-10,60,554.59
+Delta,Summer,2017-06-11,56,556.5
+Delta,Summer,2017-06-12,60,556.64
+Delta,Summer,2017-06-13,51,566.84
+Delta,Summer,2017-06-14,53,568.34
+Delta,Summer,2017-06-15,57,543.29
+Delta,Summer,2018-05-15,53,533.76
+Delta,Summer,2018-05-16,58,581.62
+Delta,Summer,2018-05-17,55,553.82
+Delta,Summer,2018-05-18,56,561.43
+Delta,Summer,2018-05-19,58,554.55
+Delta,Summer,2018-05-20,58,564.06
+Delta,Summer,2018-05-21,58,524.02
+Delta,Summer,2018-05-22,48,546.69
+Delta,Summer,2018-05-23,47,540.16
+Delta,Summer,2018-05-24,54,549.37
+Delta,Summer,2018-05-25,50,587.76
+Delta,Summer,2018-05-26,48,542.68
+Delta,Summer,2018-05-27,49,604.31
+Delta,Summer,2018-05-28,48,541.62
+Delta,Summer,2018-05-29,60,545.78
+Delta,Summer,2018-05-30,54,566.36
+Delta,Summer,2018-05-31,59,570.26
+Delta,Summer,2018-06-01,49,523.83
+Delta,Summer,2018-06-02,60,572.38
+Delta,Summer,2018-06-03,50,554.5
+Delta,Summer,2018-06-04,49,563.1
+Delta,Summer,2018-06-05,58,496.27
+Delta,Summer,2018-06-06,39,571.99
+Delta,Summer,2018-06-07,56,518.31
+Delta,Summer,2018-06-08,43,576.48
+Delta,Summer,2018-06-09,57,539.66
+Delta,Summer,2018-06-10,60,520.03
+Delta,Summer,2018-06-11,59,558.4
+Delta,Summer,2018-06-12,60,560.23
+Delta,Summer,2018-06-13,56,527.25
+Delta,Summer,2018-06-14,51,511.18
+Delta,Summer,2018-06-15,53,558.89
+Delta,Summer,2019-05-15,60,532.46
+Delta,Summer,2019-05-16,52,564.85
+Delta,Summer,2019-05-17,34,549.42
+Delta,Summer,2019-05-18,60,562.67
+Delta,Summer,2019-05-19,52,551.32
+Delta,Summer,2019-05-20,47,574.91
+Delta,Summer,2019-05-21,49,557.12
+Delta,Summer,2019-05-22,59,556.09
+Delta,Summer,2019-05-23,55,558.6
+Delta,Summer,2019-05-24,60,523.39
+Delta,Summer,2019-05-25,60,536.37
+Delta,Summer,2019-05-26,59,584.08
+Delta,Summer,2019-05-27,42,549.03
+Delta,Summer,2019-05-28,57,534.25
+Delta,Summer,2019-05-29,56,536.94
+Delta,Summer,2019-05-30,58,572.63
+Delta,Summer,2019-05-31,53,542.66
+Delta,Summer,2019-06-01,60,499.74
+Delta,Summer,2019-06-02,45,564.67
+Delta,Summer,2019-06-03,57,501.83
+Delta,Summer,2019-06-04,57,556.51
+Delta,Summer,2019-06-05,54,540.03
+Delta,Summer,2019-06-06,47,544.91
+Delta,Summer,2019-06-07,53,514.58
+Delta,Summer,2019-06-08,56,553.91
+Delta,Summer,2019-06-09,46,553.91
+Delta,Summer,2019-06-10,53,534.0
+Delta,Summer,2019-06-11,58,551.8
+Delta,Summer,2019-06-12,53,531.64
+Delta,Summer,2019-06-13,48,560.64
+Delta,Summer,2019-06-14,56,552.3
+Delta,Summer,2019-06-15,59,596.7
+Delta,Summer,2020-05-15,43,559.11
+Delta,Summer,2020-05-16,59,590.62
+Delta,Summer,2020-05-17,45,571.68
+Delta,Summer,2020-05-18,49,561.2
+Delta,Summer,2020-05-19,54,533.53
+Delta,Summer,2020-05-20,57,567.34
+Delta,Summer,2020-05-21,37,554.18
+Delta,Summer,2020-05-22,60,580.62
+Delta,Summer,2020-05-23,60,556.93
+Delta,Summer,2020-05-24,40,561.58
+Delta,Summer,2020-05-25,47,569.02
+Delta,Summer,2020-05-26,53,524.5
+Delta,Summer,2020-05-27,54,578.49
+Delta,Summer,2020-05-28,58,556.13
+Delta,Summer,2020-05-29,55,578.16
+Delta,Summer,2020-05-30,40,574.3
+Delta,Summer,2020-05-31,45,558.02
+Delta,Summer,2020-06-01,49,526.24
+Delta,Summer,2020-06-02,59,557.95
+Delta,Summer,2020-06-03,44,581.0
+Delta,Summer,2020-06-04,48,583.7
+Delta,Summer,2020-06-05,57,547.8
+Delta,Summer,2020-06-06,59,570.56
+Delta,Summer,2020-06-07,51,573.2
+Delta,Summer,2020-06-08,51,567.43
+Delta,Summer,2020-06-09,47,563.36
+Delta,Summer,2020-06-10,42,561.04
+Delta,Summer,2020-06-11,59,536.43
+Delta,Summer,2020-06-12,53,572.34
+Delta,Summer,2020-06-13,53,569.42
+Delta,Summer,2020-06-14,44,527.42
+Delta,Summer,2020-06-15,57,546.75
+Delta,Summer,2021-05-15,60,554.23
+Delta,Summer,2021-05-16,60,544.58
+Delta,Summer,2021-05-17,60,543.83
+Delta,Summer,2021-05-18,44,576.01
+Delta,Summer,2021-05-19,57,498.0
+Delta,Summer,2021-05-20,50,571.08
+Delta,Summer,2021-05-21,53,524.94
+Delta,Summer,2021-05-22,52,516.51
+Delta,Summer,2021-05-23,57,561.84
+Delta,Summer,2021-05-24,53,559.56
+Delta,Summer,2021-05-25,60,532.83
+Delta,Summer,2021-05-26,59,554.99
+Delta,Summer,2021-05-27,57,542.55
+Delta,Summer,2021-05-28,46,575.77
+Delta,Summer,2021-05-29,47,573.59
+Delta,Summer,2021-05-30,46,551.38
+Delta,Summer,2021-05-31,59,558.61
+Delta,Summer,2021-06-01,59,565.55
+Delta,Summer,2021-06-02,50,561.04
+Delta,Summer,2021-06-03,56,556.08
+Delta,Summer,2021-06-04,26,555.03
+Delta,Summer,2021-06-05,59,547.86
+Delta,Summer,2021-06-06,56,529.22
+Delta,Summer,2021-06-07,50,553.03
+Delta,Summer,2021-06-08,53,555.71
+Delta,Summer,2021-06-09,59,566.05
+Delta,Summer,2021-06-10,57,545.6
+Delta,Summer,2021-06-11,58,539.79
+Delta,Summer,2021-06-12,58,544.84
+Delta,Summer,2021-06-13,51,560.68
+Delta,Summer,2021-06-14,47,564.8
+Delta,Summer,2021-06-15,54,525.57
+Delta,Summer,2022-05-15,58,542.53
+Delta,Summer,2022-05-16,58,547.87
+Delta,Summer,2022-05-17,59,547.75
+Delta,Summer,2022-05-18,46,555.5
+Delta,Summer,2022-05-19,60,505.03
+Delta,Summer,2022-05-20,48,582.45
+Delta,Summer,2022-05-21,56,520.78
+Delta,Summer,2022-05-22,60,538.02
+Delta,Summer,2022-05-23,57,502.94
+Delta,Summer,2022-05-24,60,545.14
+Delta,Summer,2022-05-25,58,540.25
+Delta,Summer,2022-05-26,36,509.36
+Delta,Summer,2022-05-27,45,514.83
+Delta,Summer,2022-05-28,50,508.26
+Delta,Summer,2022-05-29,59,510.2
+Delta,Summer,2022-05-30,57,486.38
+Delta,Summer,2022-05-31,58,537.42
+Delta,Summer,2022-06-01,59,574.03
+Delta,Summer,2022-06-02,57,533.47
+Delta,Summer,2022-06-03,48,569.69
+Delta,Summer,2022-06-04,56,564.53
+Delta,Summer,2022-06-05,57,526.38
+Delta,Summer,2022-06-06,55,543.55
+Delta,Summer,2022-06-07,54,504.47
+Delta,Summer,2022-06-08,56,546.81
+Delta,Summer,2022-06-09,59,572.22
+Delta,Summer,2022-06-10,52,571.37
+Delta,Summer,2022-06-11,46,552.95
+Delta,Summer,2022-06-12,58,553.98
+Delta,Summer,2022-06-13,49,555.97
+Delta,Summer,2022-06-14,56,563.23
+Delta,Summer,2022-06-15,53,555.62
+Delta,Summer,2023-05-15,50,582.45
+Delta,Summer,2023-05-16,53,555.58
+Delta,Summer,2023-05-17,58,546.09
+Delta,Summer,2023-05-18,56,574.06
+Delta,Summer,2023-05-19,55,546.89
+Delta,Summer,2023-05-20,55,494.6
+Delta,Summer,2023-05-21,60,544.72
+Delta,Summer,2023-05-22,51,573.17
+Delta,Summer,2023-05-23,35,566.59
+Delta,Summer,2023-05-24,50,562.11
+Delta,Summer,2023-05-25,45,533.45
+Delta,Summer,2023-05-26,35,541.47
+Delta,Summer,2023-05-27,60,536.14
+Delta,Summer,2023-05-28,47,545.15
+Delta,Summer,2023-05-29,51,550.56
+Delta,Summer,2023-05-30,57,559.71
+Delta,Summer,2023-05-31,57,554.66
+Delta,Summer,2023-06-01,56,579.73
+Delta,Summer,2023-06-02,50,565.57
+Delta,Summer,2023-06-03,58,530.66
+Delta,Summer,2023-06-04,53,532.36
+Delta,Summer,2023-06-05,57,576.76
+Delta,Summer,2023-06-06,57,537.63
+Delta,Summer,2023-06-07,42,550.3
+Delta,Summer,2023-06-08,50,559.66
+Delta,Summer,2023-06-09,58,573.87
+Delta,Summer,2023-06-10,59,546.88
+Delta,Summer,2023-06-11,20,530.64
+Delta,Summer,2023-06-12,48,577.11
+Delta,Summer,2023-06-13,56,569.24
+Delta,Summer,2023-06-14,56,537.53
+Delta,Summer,2023-06-15,58,574.07
+Delta,Summer,2024-05-15,60,546.14
+Delta,Summer,2024-05-16,55,568.88
+Delta,Summer,2024-05-17,45,559.22
+Delta,Summer,2024-05-18,55,528.27
+Delta,Summer,2024-05-19,57,553.73
+Delta,Summer,2024-05-20,60,517.73
+Delta,Summer,2024-05-21,58,557.75
+Delta,Summer,2024-05-22,57,515.93
+Delta,Summer,2024-05-23,59,562.22
+Delta,Summer,2024-05-24,59,569.99
+Delta,Summer,2024-05-25,59,516.89
+Delta,Summer,2024-05-26,60,576.96
+Delta,Summer,2024-05-27,57,538.9
+Delta,Summer,2024-05-28,60,529.05
+Delta,Summer,2024-05-29,58,543.42
+Delta,Summer,2024-05-30,57,545.83
+Delta,Summer,2024-05-31,49,551.19
+Delta,Summer,2024-06-01,60,554.69
+Delta,Summer,2024-06-02,51,543.69
+Delta,Summer,2024-06-03,60,569.47
+Delta,Summer,2024-06-04,58,557.5
+Delta,Summer,2024-06-05,55,564.43
+Delta,Summer,2024-06-06,45,551.33
+Delta,Summer,2024-06-07,60,537.97
+Delta,Summer,2024-06-08,56,538.79
+Delta,Summer,2024-06-09,53,534.03
+Delta,Summer,2024-06-10,59,552.91
+Delta,Summer,2024-06-11,53,556.18
+Delta,Summer,2024-06-12,59,514.81
+Delta,Summer,2024-06-13,52,568.2
+Delta,Summer,2024-06-14,55,545.41
+Delta,Summer,2024-06-15,48,543.82
+Delta,Fall,2015-08-23,53,558.7
+Delta,Fall,2015-08-24,58,523.72
+Delta,Fall,2015-08-25,48,548.52
+Delta,Fall,2015-08-26,55,558.48
+Delta,Fall,2015-08-27,56,575.5
+Delta,Fall,2015-08-28,49,473.11
+Delta,Fall,2015-08-29,38,529.77
+Delta,Fall,2015-08-30,56,535.5
+Delta,Fall,2015-08-31,58,531.71
+Delta,Fall,2015-09-01,60,563.88
+Delta,Fall,2015-09-02,54,573.31
+Delta,Fall,2015-09-03,48,551.72
+Delta,Fall,2015-09-04,53,541.27
+Delta,Fall,2015-09-05,48,546.62
+Delta,Fall,2015-09-06,57,557.6
+Delta,Fall,2015-09-07,51,558.7
+Delta,Fall,2015-09-08,56,500.58
+Delta,Fall,2015-09-09,50,526.83
+Delta,Fall,2015-09-10,48,555.38
+Delta,Fall,2015-09-11,57,588.67
+Delta,Fall,2015-09-12,46,551.38
+Delta,Fall,2015-09-13,27,547.38
+Delta,Fall,2015-09-14,49,543.58
+Delta,Fall,2015-09-15,59,577.47
+Delta,Fall,2015-09-16,57,575.53
+Delta,Fall,2015-09-17,43,561.32
+Delta,Fall,2015-09-18,52,581.24
+Delta,Fall,2015-09-19,45,535.4
+Delta,Fall,2015-09-20,59,566.66
+Delta,Fall,2015-09-21,56,568.97
+Delta,Fall,2015-09-22,58,495.32
+Delta,Fall,2015-09-23,47,545.82
+Delta,Fall,2016-08-23,58,559.05
+Delta,Fall,2016-08-24,57,535.28
+Delta,Fall,2016-08-25,55,543.81
+Delta,Fall,2016-08-26,57,513.14
+Delta,Fall,2016-08-27,45,555.66
+Delta,Fall,2016-08-28,57,546.95
+Delta,Fall,2016-08-29,58,588.43
+Delta,Fall,2016-08-30,47,564.98
+Delta,Fall,2016-08-31,57,563.09
+Delta,Fall,2016-09-01,46,559.81
+Delta,Fall,2016-09-02,58,501.25
+Delta,Fall,2016-09-03,53,540.77
+Delta,Fall,2016-09-04,45,555.91
+Delta,Fall,2016-09-05,59,535.03
+Delta,Fall,2016-09-06,35,594.01
+Delta,Fall,2016-09-07,53,563.34
+Delta,Fall,2016-09-08,46,583.18
+Delta,Fall,2016-09-09,60,559.65
+Delta,Fall,2016-09-10,53,554.43
+Delta,Fall,2016-09-11,51,545.93
+Delta,Fall,2016-09-12,54,508.32
+Delta,Fall,2016-09-13,45,575.53
+Delta,Fall,2016-09-14,56,538.76
+Delta,Fall,2016-09-15,44,569.91
+Delta,Fall,2016-09-16,58,536.9
+Delta,Fall,2016-09-17,60,556.3
+Delta,Fall,2016-09-18,56,551.62
+Delta,Fall,2016-09-19,59,552.49
+Delta,Fall,2016-09-20,45,537.32
+Delta,Fall,2016-09-21,50,551.5
+Delta,Fall,2016-09-22,33,521.03
+Delta,Fall,2016-09-23,53,534.28
+Delta,Fall,2017-08-23,56,540.61
+Delta,Fall,2017-08-24,54,573.12
+Delta,Fall,2017-08-25,60,572.02
+Delta,Fall,2017-08-26,60,576.58
+Delta,Fall,2017-08-27,56,543.68
+Delta,Fall,2017-08-28,53,547.73
+Delta,Fall,2017-08-29,60,523.02
+Delta,Fall,2017-08-30,60,565.44
+Delta,Fall,2017-08-31,51,532.76
+Delta,Fall,2017-09-01,49,573.28
+Delta,Fall,2017-09-02,60,549.92
+Delta,Fall,2017-09-03,57,566.85
+Delta,Fall,2017-09-04,50,575.65
+Delta,Fall,2017-09-05,52,566.0
+Delta,Fall,2017-09-06,55,570.97
+Delta,Fall,2017-09-07,53,544.36
+Delta,Fall,2017-09-08,57,530.79
+Delta,Fall,2017-09-09,59,577.49
+Delta,Fall,2017-09-10,32,536.47
+Delta,Fall,2017-09-11,53,522.06
+Delta,Fall,2017-09-12,45,551.07
+Delta,Fall,2017-09-13,59,570.08
+Delta,Fall,2017-09-14,60,566.4
+Delta,Fall,2017-09-15,60,554.81
+Delta,Fall,2017-09-16,42,541.67
+Delta,Fall,2017-09-17,58,493.99
+Delta,Fall,2017-09-18,41,560.43
+Delta,Fall,2017-09-19,58,566.18
+Delta,Fall,2017-09-20,57,535.39
+Delta,Fall,2017-09-21,51,547.48
+Delta,Fall,2017-09-22,56,557.1
+Delta,Fall,2017-09-23,39,575.32
+Delta,Fall,2018-08-23,57,563.82
+Delta,Fall,2018-08-24,57,578.18
+Delta,Fall,2018-08-25,50,507.05
+Delta,Fall,2018-08-26,57,572.62
+Delta,Fall,2018-08-27,60,532.45
+Delta,Fall,2018-08-28,58,529.64
+Delta,Fall,2018-08-29,58,560.14
+Delta,Fall,2018-08-30,48,561.26
+Delta,Fall,2018-08-31,59,569.1
+Delta,Fall,2018-09-01,38,567.3
+Delta,Fall,2018-09-02,54,569.67
+Delta,Fall,2018-09-03,35,569.41
+Delta,Fall,2018-09-04,51,562.99
+Delta,Fall,2018-09-05,50,539.07
+Delta,Fall,2018-09-06,46,547.19
+Delta,Fall,2018-09-07,55,566.21
+Delta,Fall,2018-09-08,57,557.37
+Delta,Fall,2018-09-09,58,529.9
+Delta,Fall,2018-09-10,52,588.0
+Delta,Fall,2018-09-11,60,582.99
+Delta,Fall,2018-09-12,49,568.41
+Delta,Fall,2018-09-13,58,535.11
+Delta,Fall,2018-09-14,52,553.63
+Delta,Fall,2018-09-15,60,578.36
+Delta,Fall,2018-09-16,57,524.67
+Delta,Fall,2018-09-17,33,528.88
+Delta,Fall,2018-09-18,58,531.4
+Delta,Fall,2018-09-19,56,571.19
+Delta,Fall,2018-09-20,54,573.66
+Delta,Fall,2018-09-21,60,560.48
+Delta,Fall,2018-09-22,58,549.18
+Delta,Fall,2018-09-23,55,573.54
+Delta,Fall,2019-08-23,50,565.54
+Delta,Fall,2019-08-24,57,539.17
+Delta,Fall,2019-08-25,38,576.79
+Delta,Fall,2019-08-26,58,529.2
+Delta,Fall,2019-08-27,59,514.5
+Delta,Fall,2019-08-28,58,538.64
+Delta,Fall,2019-08-29,60,543.15
+Delta,Fall,2019-08-30,59,547.98
+Delta,Fall,2019-08-31,45,578.41
+Delta,Fall,2019-09-01,53,573.15
+Delta,Fall,2019-09-02,60,575.71
+Delta,Fall,2019-09-03,55,517.05
+Delta,Fall,2019-09-04,58,539.63
+Delta,Fall,2019-09-05,60,534.5
+Delta,Fall,2019-09-06,59,570.54
+Delta,Fall,2019-09-07,58,535.43
+Delta,Fall,2019-09-08,58,533.84
+Delta,Fall,2019-09-09,56,547.32
+Delta,Fall,2019-09-10,39,519.27
+Delta,Fall,2019-09-11,52,542.74
+Delta,Fall,2019-09-12,50,560.6
+Delta,Fall,2019-09-13,32,528.52
+Delta,Fall,2019-09-14,56,566.63
+Delta,Fall,2019-09-15,57,503.1
+Delta,Fall,2019-09-16,42,600.55
+Delta,Fall,2019-09-17,47,572.88
+Delta,Fall,2019-09-18,56,533.06
+Delta,Fall,2019-09-19,42,575.25
+Delta,Fall,2019-09-20,49,551.69
+Delta,Fall,2019-09-21,60,560.99
+Delta,Fall,2019-09-22,60,565.55
+Delta,Fall,2019-09-23,59,537.68
+Delta,Fall,2020-08-23,49,561.93
+Delta,Fall,2020-08-24,59,527.06
+Delta,Fall,2020-08-25,57,560.94
+Delta,Fall,2020-08-26,50,566.02
+Delta,Fall,2020-08-27,60,479.72
+Delta,Fall,2020-08-28,56,540.14
+Delta,Fall,2020-08-29,58,584.92
+Delta,Fall,2020-08-30,58,514.07
+Delta,Fall,2020-08-31,54,543.06
+Delta,Fall,2020-09-01,56,556.92
+Delta,Fall,2020-09-02,53,529.1
+Delta,Fall,2020-09-03,55,509.74
+Delta,Fall,2020-09-04,24,562.62
+Delta,Fall,2020-09-05,56,570.47
+Delta,Fall,2020-09-06,59,500.91
+Delta,Fall,2020-09-07,55,566.41
+Delta,Fall,2020-09-08,55,563.42
+Delta,Fall,2020-09-09,59,536.22
+Delta,Fall,2020-09-10,54,559.49
+Delta,Fall,2020-09-11,53,555.61
+Delta,Fall,2020-09-12,48,539.2
+Delta,Fall,2020-09-13,56,559.71
+Delta,Fall,2020-09-14,50,563.54
+Delta,Fall,2020-09-15,48,551.41
+Delta,Fall,2020-09-16,58,547.47
+Delta,Fall,2020-09-17,51,558.06
+Delta,Fall,2020-09-18,50,569.0
+Delta,Fall,2020-09-19,56,555.52
+Delta,Fall,2020-09-20,44,564.67
+Delta,Fall,2020-09-21,54,568.08
+Delta,Fall,2020-09-22,60,532.75
+Delta,Fall,2020-09-23,56,554.17
+Delta,Fall,2021-08-23,53,542.14
+Delta,Fall,2021-08-24,52,553.65
+Delta,Fall,2021-08-25,17,532.17
+Delta,Fall,2021-08-26,56,547.38
+Delta,Fall,2021-08-27,47,578.51
+Delta,Fall,2021-08-28,54,551.59
+Delta,Fall,2021-08-29,46,540.58
+Delta,Fall,2021-08-30,54,566.44
+Delta,Fall,2021-08-31,58,541.89
+Delta,Fall,2021-09-01,59,511.74
+Delta,Fall,2021-09-02,54,564.2
+Delta,Fall,2021-09-03,57,551.28
+Delta,Fall,2021-09-04,55,549.27
+Delta,Fall,2021-09-05,56,556.54
+Delta,Fall,2021-09-06,52,574.58
+Delta,Fall,2021-09-07,54,554.67
+Delta,Fall,2021-09-08,52,571.14
+Delta,Fall,2021-09-09,54,560.93
+Delta,Fall,2021-09-10,51,550.8
+Delta,Fall,2021-09-11,55,562.84
+Delta,Fall,2021-09-12,43,570.12
+Delta,Fall,2021-09-13,50,594.98
+Delta,Fall,2021-09-14,53,571.51
+Delta,Fall,2021-09-15,54,540.91
+Delta,Fall,2021-09-16,54,545.2
+Delta,Fall,2021-09-17,36,557.38
+Delta,Fall,2021-09-18,54,552.31
+Delta,Fall,2021-09-19,56,539.74
+Delta,Fall,2021-09-20,60,576.9
+Delta,Fall,2021-09-21,50,574.51
+Delta,Fall,2021-09-22,55,545.53
+Delta,Fall,2021-09-23,42,577.68
+Delta,Fall,2022-08-23,59,547.25
+Delta,Fall,2022-08-24,49,545.84
+Delta,Fall,2022-08-25,60,572.71
+Delta,Fall,2022-08-26,57,483.64
+Delta,Fall,2022-08-27,60,561.4
+Delta,Fall,2022-08-28,58,522.54
+Delta,Fall,2022-08-29,59,548.39
+Delta,Fall,2022-08-30,59,540.95
+Delta,Fall,2022-08-31,57,559.79
+Delta,Fall,2022-09-01,47,570.77
+Delta,Fall,2022-09-02,56,562.93
+Delta,Fall,2022-09-03,43,538.17
+Delta,Fall,2022-09-04,53,539.3
+Delta,Fall,2022-09-05,51,559.98
+Delta,Fall,2022-09-06,60,554.33
+Delta,Fall,2022-09-07,50,562.32
+Delta,Fall,2022-09-08,51,581.66
+Delta,Fall,2022-09-09,59,561.29
+Delta,Fall,2022-09-10,58,533.62
+Delta,Fall,2022-09-11,59,538.1
+Delta,Fall,2022-09-12,57,491.0
+Delta,Fall,2022-09-13,57,559.6
+Delta,Fall,2022-09-14,56,540.93
+Delta,Fall,2022-09-15,50,536.69
+Delta,Fall,2022-09-16,57,581.87
+Delta,Fall,2022-09-17,60,520.68
+Delta,Fall,2022-09-18,54,566.67
+Delta,Fall,2022-09-19,40,551.82
+Delta,Fall,2022-09-20,59,512.7
+Delta,Fall,2022-09-21,59,548.91
+Delta,Fall,2022-09-22,55,522.73
+Delta,Fall,2022-09-23,57,534.32
+Delta,Fall,2023-08-23,42,560.03
+Delta,Fall,2023-08-24,50,528.56
+Delta,Fall,2023-08-25,45,568.21
+Delta,Fall,2023-08-26,57,568.18
+Delta,Fall,2023-08-27,60,561.25
+Delta,Fall,2023-08-28,56,528.22
+Delta,Fall,2023-08-29,48,555.79
+Delta,Fall,2023-08-30,57,549.61
+Delta,Fall,2023-08-31,44,568.84
+Delta,Fall,2023-09-01,41,577.15
+Delta,Fall,2023-09-02,57,539.49
+Delta,Fall,2023-09-03,51,584.38
+Delta,Fall,2023-09-04,54,553.87
+Delta,Fall,2023-09-05,41,551.08
+Delta,Fall,2023-09-06,43,590.88
+Delta,Fall,2023-09-07,52,567.57
+Delta,Fall,2023-09-08,57,514.03
+Delta,Fall,2023-09-09,51,552.72
+Delta,Fall,2023-09-10,52,575.95
+Delta,Fall,2023-09-11,55,576.93
+Delta,Fall,2023-09-12,58,574.03
+Delta,Fall,2023-09-13,57,560.79
+Delta,Fall,2023-09-14,53,561.45
+Delta,Fall,2023-09-15,46,511.91
+Delta,Fall,2023-09-16,55,525.57
+Delta,Fall,2023-09-17,55,517.0
+Delta,Fall,2023-09-18,60,500.99
+Delta,Fall,2023-09-19,52,552.09
+Delta,Fall,2023-09-20,58,482.4
+Delta,Fall,2023-09-21,54,558.37
+Delta,Fall,2023-09-22,50,531.04
+Delta,Fall,2023-09-23,55,545.02
+Delta,Fall,2024-08-23,52,559.6
+Delta,Fall,2024-08-24,55,572.64
+Delta,Fall,2024-08-25,53,550.35
+Delta,Fall,2024-08-26,53,560.15
+Delta,Fall,2024-08-27,58,559.85
+Delta,Fall,2024-08-28,60,567.38
+Delta,Fall,2024-08-29,31,558.51
+Delta,Fall,2024-08-30,60,521.76
+Delta,Fall,2024-08-31,59,562.67
+Delta,Fall,2024-09-01,59,565.17
+Delta,Fall,2024-09-02,58,543.75
+Delta,Fall,2024-09-03,54,534.16
+Delta,Fall,2024-09-04,43,544.62
+Delta,Fall,2024-09-05,57,542.29
+Delta,Fall,2024-09-06,49,549.81
+Delta,Fall,2024-09-07,58,569.89
+Delta,Fall,2024-09-08,51,562.71
+Delta,Fall,2024-09-09,60,567.3
+Delta,Fall,2024-09-10,56,542.96
+Delta,Fall,2024-09-11,46,530.36
+Delta,Fall,2024-09-12,55,522.97
+Delta,Fall,2024-09-13,57,543.81
+Delta,Fall,2024-09-14,60,571.17
+Delta,Fall,2024-09-15,53,563.4
+Delta,Fall,2024-09-16,60,559.43
+Delta,Fall,2024-09-17,60,554.75
+Delta,Fall,2024-09-18,56,522.19
+Delta,Fall,2024-09-19,56,566.64
+Delta,Fall,2024-09-20,46,561.03
+Delta,Fall,2024-09-21,55,579.19
+Delta,Fall,2024-09-22,57,519.58
+Delta,Fall,2024-09-23,54,567.04
